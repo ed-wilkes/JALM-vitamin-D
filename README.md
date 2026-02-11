@@ -1,6 +1,18 @@
 # JALM-vitamin-D
 Code and data for Bayesian modelling of vitamin D stability data.
 
+## Citations
+If you find the functions, data, and/or analysis within this repo useful for your own work, please cite the associated publication(s):
+
+```
+@article{wilkes2026jalm,
+    title={Samples for the determination of total 25-hydroxyvitamin D levels were stable at ambient temperature},
+    author={Wilkes, Edmund H and Ross, Alex and Williams, Emma L},
+    journal={J Appl Lab Med},
+    year={2026}
+}
+```
+
 `Wilkes_JALM_stability_data.csv` represents the freely-available data from the below publication:
 
 ```
