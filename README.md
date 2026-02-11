@@ -1,4 +1,4 @@
-# JALM-2025-0314
+# JALM-vitamin-D
 Code and data for Bayesian modelling of vitamin D stability data.
 
 `Wilkes_JALM_stability_data.csv` represents the freely-available data from the below publication:
