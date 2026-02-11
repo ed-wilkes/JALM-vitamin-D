@@ -1,0 +1,3211 @@
+"lab","sample","concentration","method","transit_time"
+1,546,43,"LC-MS-MS",1
+1,547,72,"LC-MS-MS",1
+1,548,88,"LC-MS-MS",1
+1,549,61,"LC-MS-MS",1
+1,550,20,"LC-MS-MS",1
+2,546,51,"Roche Vitamin D Total II",1
+2,547,74,"Roche Vitamin D Total II",1
+2,548,88,"Roche Vitamin D Total II",1
+2,549,62,"Roche Vitamin D Total II",1
+2,550,24,"Roche Vitamin D Total II",1
+3,546,54.2,"LC-MS-MS",1
+3,547,79.2,"LC-MS-MS",1
+3,548,86.9,"LC-MS-MS",1
+3,549,65.9,"LC-MS-MS",1
+3,550,25.4,"LC-MS-MS",1
+4,546,51,"LC-MS-MS",1
+4,547,74,"LC-MS-MS",1
+4,548,92,"LC-MS-MS",1
+4,549,61,"LC-MS-MS",1
+4,550,22,"LC-MS-MS",1
+5,546,52.6,"Siemens ADVIA Centaur",1
+5,547,63.4,"Siemens ADVIA Centaur",1
+5,548,84.2,"Siemens ADVIA Centaur",1
+5,549,63,"Siemens ADVIA Centaur",1
+5,550,30.5,"Siemens ADVIA Centaur",1
+6,546,55.3,"LC-MS-MS",1
+6,547,72.2,"LC-MS-MS",1
+6,548,95.2,"LC-MS-MS",1
+6,549,62.4,"LC-MS-MS",1
+6,550,27.5,"LC-MS-MS",1
+7,546,64.2,"Roche Total 25OHD",3
+7,547,89.6,"Roche Total 25OHD",3
+7,548,102,"Roche Total 25OHD",3
+7,549,78.6,"Roche Total 25OHD",3
+7,550,34.7,"Roche Total 25OHD",3
+8,546,48,"LC-MS-MS",9
+8,547,66,"LC-MS-MS",9
+8,548,82,"LC-MS-MS",9
+8,549,60,"LC-MS-MS",9
+8,550,22,"LC-MS-MS",9
+9,546,55,"DiaSorin Liaison Total",22
+9,547,73.5,"DiaSorin Liaison Total",22
+9,548,91.8,"DiaSorin Liaison Total",22
+9,549,67,"DiaSorin Liaison Total",22
+9,550,26.8,"DiaSorin Liaison Total",22
+10,546,50,"DiaSorin Liaison Total",8
+10,547,75,"DiaSorin Liaison Total",8
+10,548,88,"DiaSorin Liaison Total",8
+10,549,63,"DiaSorin Liaison Total",8
+10,550,27,"DiaSorin Liaison Total",8
+11,546,61,"Roche Total 25OHD",8
+11,547,83,"Roche Total 25OHD",8
+11,548,100,"Roche Total 25OHD",8
+11,549,60,"Roche Total 25OHD",8
+11,550,24,"Roche Total 25OHD",8
+12,546,51,"Abbott Architect - New (5P02)",10
+12,547,70,"Abbott Architect - New (5P02)",10
+12,548,96,"Abbott Architect - New (5P02)",10
+12,549,62,"Abbott Architect - New (5P02)",10
+12,550,24,"Abbott Architect - New (5P02)",10
+13,546,38.1,"LC-MS-MS",7
+13,547,53.3,"LC-MS-MS",7
+13,548,59.8,"LC-MS-MS",7
+13,549,42.5,"LC-MS-MS",7
+13,550,13,"LC-MS-MS",7
+14,546,54.6,"IDS RIA",1
+14,547,72.3,"IDS RIA",1
+14,548,92.9,"IDS RIA",1
+14,549,65.6,"IDS RIA",1
+14,550,31.5,"IDS RIA",1
+15,546,53,"Roche Total 25OHD",9
+15,547,83,"Roche Total 25OHD",9
+15,548,97,"Roche Total 25OHD",9
+15,549,62,"Roche Total 25OHD",9
+15,550,25,"Roche Total 25OHD",9
+16,546,48,"Abbott Architect - New (5P02)",7
+16,547,70,"Abbott Architect - New (5P02)",7
+16,548,88,"Abbott Architect - New (5P02)",7
+16,549,56,"Abbott Architect - New (5P02)",7
+16,550,22,"Abbott Architect - New (5P02)",7
+17,546,56,"LC-MS-MS",2
+17,547,75,"LC-MS-MS",2
+17,548,91,"LC-MS-MS",2
+17,549,61,"LC-MS-MS",2
+17,550,26,"LC-MS-MS",2
+18,546,49.8,"Abbott Architect - New (5P02)",14
+18,547,69.8,"Abbott Architect - New (5P02)",14
+18,548,91.3,"Abbott Architect - New (5P02)",14
+18,549,60.8,"Abbott Architect - New (5P02)",14
+18,550,22.8,"Abbott Architect - New (5P02)",14
+19,546,52,"DiaSorin Liaison Total",10
+19,547,67,"DiaSorin Liaison Total",10
+19,548,91,"DiaSorin Liaison Total",10
+19,549,62,"DiaSorin Liaison Total",10
+19,550,27,"DiaSorin Liaison Total",10
+20,546,44.3,"Roche Vitamin D Total II",6
+20,547,67,"Roche Vitamin D Total II",6
+20,548,80.3,"Roche Vitamin D Total II",6
+20,549,57.5,"Roche Vitamin D Total II",6
+20,550,26.8,"Roche Vitamin D Total II",6
+21,546,53.4,"Abbott Architect - New (5P02)",12
+21,547,66.9,"Abbott Architect - New (5P02)",12
+21,548,95.7,"Abbott Architect - New (5P02)",12
+21,549,60.6,"Abbott Architect - New (5P02)",12
+21,550,22.5,"Abbott Architect - New (5P02)",12
+22,546,56,"LC-MS-MS",12
+22,547,83,"LC-MS-MS",12
+22,548,106,"LC-MS-MS",12
+22,549,71,"LC-MS-MS",12
+22,550,25,"LC-MS-MS",12
+23,546,54,"Roche Total 25OHD",1
+23,547,86,"Roche Total 25OHD",1
+23,548,103,"Roche Total 25OHD",1
+23,549,62,"Roche Total 25OHD",1
+23,550,23,"Roche Total 25OHD",1
+24,546,64.5,"IDS-iSYS",7
+24,547,68,"IDS-iSYS",7
+24,548,90,"IDS-iSYS",7
+24,549,64.8,"IDS-iSYS",7
+24,550,28,"IDS-iSYS",7
+25,546,46.9,"Roche Vitamin D Total II",8
+25,547,67.4,"Roche Vitamin D Total II",8
+25,548,86.3,"Roche Vitamin D Total II",8
+25,549,57.8,"Roche Vitamin D Total II",8
+25,550,21.4,"Roche Vitamin D Total II",8
+26,546,48.6,"LC-MS-MS",1
+26,547,68.8,"LC-MS-MS",1
+26,548,83.8,"LC-MS-MS",1
+26,549,57.6,"LC-MS-MS",1
+26,550,21.4,"LC-MS-MS",1
+27,546,51.9,"LC-MS-MS",7
+27,547,73.2,"LC-MS-MS",7
+27,548,91.9,"LC-MS-MS",7
+27,549,64.2,"LC-MS-MS",7
+27,550,25.6,"LC-MS-MS",7
+28,546,55.7,"DiaSorin Liaison Total",4
+28,547,73.1,"DiaSorin Liaison Total",4
+28,548,93,"DiaSorin Liaison Total",4
+28,549,68.1,"DiaSorin Liaison Total",4
+28,550,29.2,"DiaSorin Liaison Total",4
+29,546,56.7,"Roche Total 25OHD",3
+29,547,91.1,"Roche Total 25OHD",3
+29,548,100.9,"Roche Total 25OHD",3
+29,549,65,"Roche Total 25OHD",3
+29,550,23.4,"Roche Total 25OHD",3
+30,546,54,"Roche Total 25OHD",7
+30,547,80,"Roche Total 25OHD",7
+30,548,100,"Roche Total 25OHD",7
+30,549,62,"Roche Total 25OHD",7
+30,550,25,"Roche Total 25OHD",7
+31,546,50,"LC-MS-MS",8
+31,547,56,"LC-MS-MS",8
+31,548,75,"LC-MS-MS",8
+31,549,58,"LC-MS-MS",8
+31,550,26,"LC-MS-MS",8
+32,546,56,"DiaSorin Liaison Total",6
+32,547,78,"DiaSorin Liaison Total",6
+32,548,98,"DiaSorin Liaison Total",6
+32,549,73,"DiaSorin Liaison Total",6
+32,550,32,"DiaSorin Liaison Total",6
+33,546,51.5,"Beckman Access2 Total 25OHD",8
+33,547,72.9,"Beckman Access2 Total 25OHD",8
+33,548,89.5,"Beckman Access2 Total 25OHD",8
+33,549,59.1,"Beckman Access2 Total 25OHD",8
+33,550,28.6,"Beckman Access2 Total 25OHD",8
+34,546,50.1,"LC-MS-MS",1
+34,547,66.9,"LC-MS-MS",1
+34,548,87.1,"LC-MS-MS",1
+34,549,61.2,"LC-MS-MS",1
+34,550,23.2,"LC-MS-MS",1
+35,546,88,"Roche Total 25OHD",8
+35,547,56,"Roche Total 25OHD",8
+35,548,98,"Roche Total 25OHD",8
+35,549,61,"Roche Total 25OHD",8
+35,550,26,"Roche Total 25OHD",8
+36,546,51.5,"Abbott Architect - New (5P02)",9
+36,547,68.2,"Abbott Architect - New (5P02)",9
+36,548,95.8,"Abbott Architect - New (5P02)",9
+36,549,62.5,"Abbott Architect - New (5P02)",9
+36,550,24.8,"Abbott Architect - New (5P02)",9
+37,546,53,"DiaSorin Liaison Total",12
+37,547,78,"DiaSorin Liaison Total",12
+37,548,98,"DiaSorin Liaison Total",12
+37,549,75,"DiaSorin Liaison Total",12
+37,550,33,"DiaSorin Liaison Total",12
+38,546,48,"Roche Total 25OHD",1
+38,547,78,"Roche Total 25OHD",1
+38,548,96,"Roche Total 25OHD",1
+38,549,59,"Roche Total 25OHD",1
+38,550,21,"Roche Total 25OHD",1
+39,546,45.9,"IDS EIA",1
+39,547,62.2,"IDS EIA",1
+39,548,78.1,"IDS EIA",1
+39,549,56.6,"IDS EIA",1
+39,550,26,"IDS EIA",1
+40,546,48.8,"Roche Vitamin D Total II",4
+40,547,69.5,"Roche Vitamin D Total II",4
+40,548,82.5,"Roche Vitamin D Total II",4
+40,549,61.8,"Roche Vitamin D Total II",4
+40,550,26.8,"Roche Vitamin D Total II",4
+41,546,36.9,"DiaSorin Liaison Total",21
+41,547,48.5,"DiaSorin Liaison Total",21
+41,548,63.3,"DiaSorin Liaison Total",21
+41,549,46.5,"DiaSorin Liaison Total",21
+41,550,18,"DiaSorin Liaison Total",21
+42,546,70.2,"LC-MS-MS",8
+42,547,103,"LC-MS-MS",8
+42,548,126.2,"LC-MS-MS",8
+42,549,90,"LC-MS-MS",8
+42,550,32.3,"LC-MS-MS",8
+43,546,57,"Beckman Unicel Dxi Total 25OHD",1
+43,547,81,"Beckman Unicel Dxi Total 25OHD",1
+43,548,88,"Beckman Unicel Dxi Total 25OHD",1
+43,549,58,"Beckman Unicel Dxi Total 25OHD",1
+43,550,26,"Beckman Unicel Dxi Total 25OHD",1
+44,546,58,"LC-MS-MS",11
+44,547,81,"LC-MS-MS",11
+44,548,104,"LC-MS-MS",11
+44,549,66,"LC-MS-MS",11
+44,550,24,"LC-MS-MS",11
+45,546,53,"Roche Total 25OHD",1
+45,547,81.6,"Roche Total 25OHD",1
+45,548,99.6,"Roche Total 25OHD",1
+45,549,58.3,"Roche Total 25OHD",1
+45,550,23.9,"Roche Total 25OHD",1
+46,546,48,"Fujirebio Lumipulse G 25OH Vit D",13
+46,547,68,"Fujirebio Lumipulse G 25OH Vit D",13
+46,548,82,"Fujirebio Lumipulse G 25OH Vit D",13
+46,549,55,"Fujirebio Lumipulse G 25OH Vit D",13
+46,550,18,"Fujirebio Lumipulse G 25OH Vit D",13
+47,546,54,"LC-MS-MS",17
+47,547,74,"LC-MS-MS",17
+47,548,93,"LC-MS-MS",17
+47,549,66,"LC-MS-MS",17
+47,550,26,"LC-MS-MS",17
+48,546,47.1,"LC-MS-MS",9
+48,547,67,"LC-MS-MS",9
+48,548,87.6,"LC-MS-MS",9
+48,549,55,"LC-MS-MS",9
+48,550,23.3,"LC-MS-MS",9
+49,546,49.3,"Roche Total 25OHD",11
+49,547,73.5,"Roche Total 25OHD",11
+49,548,87.3,"Roche Total 25OHD",11
+49,549,63.3,"Roche Total 25OHD",11
+49,550,27.8,"Roche Total 25OHD",11
+50,546,58,"LC-MS-MS",4
+50,547,65,"LC-MS-MS",4
+50,548,83,"LC-MS-MS",4
+50,549,58,"LC-MS-MS",4
+50,550,28,"LC-MS-MS",4
+51,546,51,"Roche Vitamin D Total II",1
+51,547,67,"Roche Vitamin D Total II",1
+51,548,82,"Roche Vitamin D Total II",1
+51,549,58,"Roche Vitamin D Total II",1
+51,550,27,"Roche Vitamin D Total II",1
+52,546,51.8,"DiaSorin Liaison Total",14
+52,547,71.8,"DiaSorin Liaison Total",14
+52,548,92,"DiaSorin Liaison Total",14
+52,549,64.3,"DiaSorin Liaison Total",14
+52,550,25.3,"DiaSorin Liaison Total",14
+53,546,47.9,"IDS-iSYS",1
+53,547,54,"IDS-iSYS",1
+53,548,74.5,"IDS-iSYS",1
+53,549,58.1,"IDS-iSYS",1
+53,550,20.7,"IDS-iSYS",1
+54,546,50,"HPLC",8
+54,547,78,"HPLC",8
+54,548,98,"HPLC",8
+54,549,60,"HPLC",8
+54,550,28,"HPLC",8
+55,546,52,"LC-MS-MS",1
+55,547,73,"LC-MS-MS",1
+55,548,86,"LC-MS-MS",1
+55,549,72,"LC-MS-MS",1
+55,550,23,"LC-MS-MS",1
+56,546,62.7,"DiaSorin Liaison Total",9
+56,547,72.9,"DiaSorin Liaison Total",9
+56,548,106,"DiaSorin Liaison Total",9
+56,549,77.6,"DiaSorin Liaison Total",9
+56,550,35.8,"DiaSorin Liaison Total",9
+57,546,63,"IDS-iSYS New",6
+57,547,84,"IDS-iSYS New",6
+57,548,110,"IDS-iSYS New",6
+57,549,76,"IDS-iSYS New",6
+57,550,30,"IDS-iSYS New",6
+58,546,62,"Roche Total 25OHD",22
+58,547,90,"Roche Total 25OHD",22
+58,548,111,"Roche Total 25OHD",22
+58,549,72,"Roche Total 25OHD",22
+58,550,32,"Roche Total 25OHD",22
+59,546,49,"Beckman Access2 Total 25OHD",2
+59,547,72,"Beckman Access2 Total 25OHD",2
+59,548,79,"Beckman Access2 Total 25OHD",2
+59,549,57,"Beckman Access2 Total 25OHD",2
+59,550,25,"Beckman Access2 Total 25OHD",2
+60,546,52.8,"DiaSorin Liaison Total",6
+60,547,69.8,"DiaSorin Liaison Total",6
+60,548,84.5,"DiaSorin Liaison Total",6
+60,549,65.4,"DiaSorin Liaison Total",6
+60,550,28.3,"DiaSorin Liaison Total",6
+61,546,57.2,"LC-MS-MS",1
+61,547,78.5,"LC-MS-MS",1
+61,548,95.3,"LC-MS-MS",1
+61,549,62.5,"LC-MS-MS",1
+61,550,25.9,"LC-MS-MS",1
+62,546,51.5,"Abbott Architect - New (5P02)",7
+62,547,73.5,"Abbott Architect - New (5P02)",7
+62,548,97,"Abbott Architect - New (5P02)",7
+62,549,61,"Abbott Architect - New (5P02)",7
+62,550,24.3,"Abbott Architect - New (5P02)",7
+63,546,57.5,"DiaSorin Liaison Total",6
+63,547,66.8,"DiaSorin Liaison Total",6
+63,548,98,"DiaSorin Liaison Total",6
+63,549,67.8,"DiaSorin Liaison Total",6
+63,550,26.3,"DiaSorin Liaison Total",6
+64,546,55.9,"DiaSorin Liaison Total",21
+64,547,78.6,"DiaSorin Liaison Total",21
+64,548,85.1,"DiaSorin Liaison Total",21
+64,549,67.1,"DiaSorin Liaison Total",21
+64,550,27.4,"DiaSorin Liaison Total",21
+65,546,59.1,"Siemens ADVIA Centaur",9
+65,547,66.3,"Siemens ADVIA Centaur",9
+65,548,85.8,"Siemens ADVIA Centaur",9
+65,549,67.5,"Siemens ADVIA Centaur",9
+65,550,23.7,"Siemens ADVIA Centaur",9
+66,546,47,"LC-MS-MS",7
+66,547,68.7,"LC-MS-MS",7
+66,548,85.5,"LC-MS-MS",7
+66,549,69.2,"LC-MS-MS",7
+66,550,23,"LC-MS-MS",7
+67,546,51,"LC-MS-MS",11
+67,547,69.4,"LC-MS-MS",11
+67,548,86.1,"LC-MS-MS",11
+67,549,60.4,"LC-MS-MS",11
+67,550,20.2,"LC-MS-MS",11
+68,546,51.1,"LC-MS-MS",8
+68,547,72,"LC-MS-MS",8
+68,548,88.9,"LC-MS-MS",8
+68,549,61.2,"LC-MS-MS",8
+68,550,22.3,"LC-MS-MS",8
+69,546,53,"LC-MS-MS",22
+69,547,72.3,"LC-MS-MS",22
+69,548,91.6,"LC-MS-MS",22
+69,549,64.2,"LC-MS-MS",22
+69,550,24.6,"LC-MS-MS",22
+70,546,50.6,"DiaSorin Liaison Total",10
+70,547,64.1,"DiaSorin Liaison Total",10
+70,548,82.1,"DiaSorin Liaison Total",10
+70,549,59.1,"DiaSorin Liaison Total",10
+70,550,26,"DiaSorin Liaison Total",10
+71,546,51.1,"Beckman Unicel Dxi Total 25OHD",23
+71,547,64.2,"Beckman Unicel Dxi Total 25OHD",23
+71,548,84.6,"Beckman Unicel Dxi Total 25OHD",23
+71,549,52.8,"Beckman Unicel Dxi Total 25OHD",23
+71,550,21.9,"Beckman Unicel Dxi Total 25OHD",23
+72,546,50,"LC-MS-MS",8
+72,547,57.5,"LC-MS-MS",8
+72,548,90,"LC-MS-MS",8
+72,549,62.5,"LC-MS-MS",8
+72,550,27.5,"LC-MS-MS",8
+73,546,49.7,"HPLC",7
+73,547,70.1,"HPLC",7
+73,548,80.5,"HPLC",7
+73,549,53.2,"HPLC",7
+73,550,20.6,"HPLC",7
+74,546,46,"Siemens ADVIA Centaur",7
+74,547,59,"Siemens ADVIA Centaur",7
+74,548,86,"Siemens ADVIA Centaur",7
+74,549,59,"Siemens ADVIA Centaur",7
+74,550,25,"Siemens ADVIA Centaur",7
+75,546,54.3,"DiaSorin Liaison Total",8
+75,547,76.6,"DiaSorin Liaison Total",8
+75,548,90.6,"DiaSorin Liaison Total",8
+75,549,66,"DiaSorin Liaison Total",8
+75,550,28.3,"DiaSorin Liaison Total",8
+76,546,48.1,"LC-MS-MS",12
+76,547,71,"LC-MS-MS",12
+76,548,84.7,"LC-MS-MS",12
+76,549,60.2,"LC-MS-MS",12
+76,550,23.3,"LC-MS-MS",12
+77,546,53,"LC-MS-MS",12
+77,547,78,"LC-MS-MS",12
+77,548,95,"LC-MS-MS",12
+77,549,66,"LC-MS-MS",12
+77,550,25,"LC-MS-MS",12
+78,546,61.3,"IDS-iSYS New",9
+78,547,76,"IDS-iSYS New",9
+78,548,95.3,"IDS-iSYS New",9
+78,549,67.8,"IDS-iSYS New",9
+78,550,24.3,"IDS-iSYS New",9
+79,546,49,"Abbott Architect - New (5P02)",1
+79,547,70,"Abbott Architect - New (5P02)",1
+79,548,93,"Abbott Architect - New (5P02)",1
+79,549,62,"Abbott Architect - New (5P02)",1
+79,550,23,"Abbott Architect - New (5P02)",1
+80,546,55.8,"HPLC",7
+80,547,78.5,"HPLC",7
+80,548,102.8,"HPLC",7
+80,549,69,"HPLC",7
+80,550,28.1,"HPLC",7
+81,546,66,"DiaSorin Liaison Total",8
+81,547,80,"DiaSorin Liaison Total",8
+81,548,100,"DiaSorin Liaison Total",8
+81,549,74,"DiaSorin Liaison Total",8
+81,550,31,"DiaSorin Liaison Total",8
+82,546,53.6,"DiaSorin Liaison Total",9
+82,547,70,"DiaSorin Liaison Total",9
+82,548,89.1,"DiaSorin Liaison Total",9
+82,549,64.7,"DiaSorin Liaison Total",9
+82,550,29.2,"DiaSorin Liaison Total",9
+83,546,59.5,"Siemens ADVIA Centaur",10
+83,547,64.2,"Siemens ADVIA Centaur",10
+83,548,79.5,"Siemens ADVIA Centaur",10
+83,549,63.1,"Siemens ADVIA Centaur",10
+83,550,27.9,"Siemens ADVIA Centaur",10
+84,546,50,"Roche Vitamin D Total II",4
+84,547,76.4,"Roche Vitamin D Total II",4
+84,548,89.5,"Roche Vitamin D Total II",4
+84,549,61.8,"Roche Vitamin D Total II",4
+84,550,24.6,"Roche Vitamin D Total II",4
+85,546,62.3,"Siemens ADVIA Centaur",7
+85,547,80.3,"Siemens ADVIA Centaur",7
+85,548,101.5,"Siemens ADVIA Centaur",7
+85,549,69.3,"Siemens ADVIA Centaur",7
+85,550,34.3,"Siemens ADVIA Centaur",7
+86,546,49,"LC-MS-MS",7
+86,547,75,"LC-MS-MS",7
+86,548,86,"LC-MS-MS",7
+86,549,59,"LC-MS-MS",7
+86,550,23,"LC-MS-MS",7
+87,546,58,"DiaSorin Liaison Total",6
+87,547,72,"DiaSorin Liaison Total",6
+87,548,104.5,"DiaSorin Liaison Total",6
+87,549,69.5,"DiaSorin Liaison Total",6
+87,550,29.3,"DiaSorin Liaison Total",6
+88,546,55.2,"DiaSorin Liaison Total",4
+88,547,73,"DiaSorin Liaison Total",4
+88,548,92.2,"DiaSorin Liaison Total",4
+88,549,67,"DiaSorin Liaison Total",4
+88,550,29.5,"DiaSorin Liaison Total",4
+89,546,41.5,"Euroimmun ELISA",4
+89,547,65.8,"Euroimmun ELISA",4
+89,548,72.3,"Euroimmun ELISA",4
+89,549,48.5,"Euroimmun ELISA",4
+89,550,21,"Euroimmun ELISA",4
+90,546,53.3,"LC-MS-MS",4
+90,547,74.1,"LC-MS-MS",4
+90,548,85.5,"LC-MS-MS",4
+90,549,61.6,"LC-MS-MS",4
+90,550,25.5,"LC-MS-MS",4
+91,546,64.1,"IDS-iSYS",4
+91,547,73.5,"IDS-iSYS",4
+91,548,91.6,"IDS-iSYS",4
+91,549,71.4,"IDS-iSYS",4
+91,550,29.8,"IDS-iSYS",4
+92,546,59.8,"DiaSorin Liaison Total",8
+92,547,69,"DiaSorin Liaison Total",8
+92,548,95.8,"DiaSorin Liaison Total",8
+92,549,63,"DiaSorin Liaison Total",8
+92,550,30,"DiaSorin Liaison Total",8
+93,546,50,"IDS-iSYS New",6
+93,547,67.5,"IDS-iSYS New",6
+93,548,90,"IDS-iSYS New",6
+93,549,67.5,"IDS-iSYS New",6
+93,550,25,"IDS-iSYS New",6
+94,546,53.9,"Siemens ADVIA Centaur",4
+94,547,76.1,"Siemens ADVIA Centaur",4
+94,548,89.5,"Siemens ADVIA Centaur",4
+94,549,68.3,"Siemens ADVIA Centaur",4
+94,550,30.4,"Siemens ADVIA Centaur",4
+95,546,55.7,"DiaSorin Liaison Total",6
+95,547,75.1,"DiaSorin Liaison Total",6
+95,548,102,"DiaSorin Liaison Total",6
+95,549,73.7,"DiaSorin Liaison Total",6
+95,550,31.2,"DiaSorin Liaison Total",6
+96,546,57.1,"DiaSorin Liaison Total",6
+96,547,76.6,"DiaSorin Liaison Total",6
+96,548,91.1,"DiaSorin Liaison Total",6
+96,549,66.7,"DiaSorin Liaison Total",6
+96,550,28.5,"DiaSorin Liaison Total",6
+97,546,50,"LC-MS-MS",2
+97,547,72,"LC-MS-MS",2
+97,548,89,"LC-MS-MS",2
+97,549,59,"LC-MS-MS",2
+97,550,23,"LC-MS-MS",2
+98,546,68.5,"Siemens ADVIA Centaur",7
+98,547,95.6,"Siemens ADVIA Centaur",7
+98,548,105.4,"Siemens ADVIA Centaur",7
+98,549,73.9,"Siemens ADVIA Centaur",7
+98,550,44.6,"Siemens ADVIA Centaur",7
+99,546,63,"Roche Total 25OHD",18
+99,547,96,"Roche Total 25OHD",18
+99,548,111,"Roche Total 25OHD",18
+99,549,71,"Roche Total 25OHD",18
+99,550,30,"Roche Total 25OHD",18
+100,546,65.8,"DiaSorin Liaison Total",6
+100,547,79.8,"DiaSorin Liaison Total",6
+100,548,101,"DiaSorin Liaison Total",6
+100,549,72,"DiaSorin Liaison Total",6
+100,550,29.5,"DiaSorin Liaison Total",6
+101,546,66.7,"Siemens ADVIA Centaur",6
+101,547,62.6,"Siemens ADVIA Centaur",6
+101,548,92.8,"Siemens ADVIA Centaur",6
+101,549,56.5,"Siemens ADVIA Centaur",6
+101,550,28.9,"Siemens ADVIA Centaur",6
+102,546,8.3,"DiaSorin Liaison Total",4
+102,547,10.7,"DiaSorin Liaison Total",4
+102,548,13.2,"DiaSorin Liaison Total",4
+102,549,10.7,"DiaSorin Liaison Total",4
+102,550,4.2,"DiaSorin Liaison Total",4
+103,546,59.8,"DiaSorin Liaison Total",7
+103,547,83.3,"DiaSorin Liaison Total",7
+103,548,101.8,"DiaSorin Liaison Total",7
+103,549,74.8,"DiaSorin Liaison Total",7
+103,550,32.5,"DiaSorin Liaison Total",7
+104,546,54.4,"Siemens ADVIA Centaur",15
+104,547,75.3,"Siemens ADVIA Centaur",15
+104,548,94.9,"Siemens ADVIA Centaur",15
+104,549,73.1,"Siemens ADVIA Centaur",15
+104,550,35.6,"Siemens ADVIA Centaur",15
+105,546,56.9,"LC-MS-MS",3
+105,547,81.3,"LC-MS-MS",3
+105,548,93.7,"LC-MS-MS",3
+105,549,70.3,"LC-MS-MS",3
+105,550,22.8,"LC-MS-MS",3
+106,546,47.6,"Roche Vitamin D Total II",7
+106,547,64.6,"Roche Vitamin D Total II",7
+106,548,80,"Roche Vitamin D Total II",7
+106,549,56.3,"Roche Vitamin D Total II",7
+106,550,24.7,"Roche Vitamin D Total II",7
+107,546,43,"Beckman Unicel Dxi Total 25OHD",4
+107,547,64.8,"Beckman Unicel Dxi Total 25OHD",4
+107,548,77.1,"Beckman Unicel Dxi Total 25OHD",4
+107,549,47.9,"Beckman Unicel Dxi Total 25OHD",4
+107,550,23.2,"Beckman Unicel Dxi Total 25OHD",4
+108,546,46.1,"Unknown",15
+108,547,56.9,"Unknown",15
+108,548,81,"Unknown",15
+108,549,55.4,"Unknown",15
+108,550,18.4,"Unknown",15
+109,546,62.3,"DiaSorin Liaison Total",4
+109,547,89.8,"DiaSorin Liaison Total",4
+109,548,108.3,"DiaSorin Liaison Total",4
+109,549,79.3,"DiaSorin Liaison Total",4
+109,550,36.3,"DiaSorin Liaison Total",4
+110,546,49.4,"DiaSorin Liaison Total",6
+110,547,75.6,"DiaSorin Liaison Total",6
+110,548,93.1,"DiaSorin Liaison Total",6
+110,549,64,"DiaSorin Liaison Total",6
+110,550,30.9,"DiaSorin Liaison Total",6
+111,546,48,"Abbott Architect - New (5P02)",8
+111,547,69.8,"Abbott Architect - New (5P02)",8
+111,548,90.3,"Abbott Architect - New (5P02)",8
+111,549,56.3,"Abbott Architect - New (5P02)",8
+111,550,22,"Abbott Architect - New (5P02)",8
+112,546,49.3,"IDS-iSYS",5
+112,547,67,"IDS-iSYS",5
+112,548,79.5,"IDS-iSYS",5
+112,549,54.5,"IDS-iSYS",5
+112,550,21.3,"IDS-iSYS",5
+113,546,51.7,"Abbott Alinity i",10
+113,547,71.3,"Abbott Alinity i",10
+113,548,93.4,"Abbott Alinity i",10
+113,549,58.6,"Abbott Alinity i",10
+113,550,21.1,"Abbott Alinity i",10
+114,546,68.1,"IDS-iSYS",15
+114,547,80.6,"IDS-iSYS",15
+114,548,96.5,"IDS-iSYS",15
+114,549,74.3,"IDS-iSYS",15
+114,550,34.6,"IDS-iSYS",15
+115,546,57.4,"DiaSorin Liaison Total",8
+115,547,78.6,"DiaSorin Liaison Total",8
+115,548,94.3,"DiaSorin Liaison Total",8
+115,549,70.6,"DiaSorin Liaison Total",8
+115,550,29.5,"DiaSorin Liaison Total",8
+116,546,60.9,"DiaSorin Liaison Total",10
+116,547,76.4,"DiaSorin Liaison Total",10
+116,548,98,"DiaSorin Liaison Total",10
+116,549,71.2,"DiaSorin Liaison Total",10
+116,550,29.6,"DiaSorin Liaison Total",10
+117,546,36.3,"LC-MS-MS",7
+117,547,59,"LC-MS-MS",7
+117,548,69,"LC-MS-MS",7
+117,549,43.8,"LC-MS-MS",7
+117,550,19,"LC-MS-MS",7
+118,546,52.5,"LC-MS-MS",7
+118,547,70,"LC-MS-MS",7
+118,548,82.5,"LC-MS-MS",7
+118,549,62.5,"LC-MS-MS",7
+118,550,25,"LC-MS-MS",7
+119,546,56.9,"DiaSorin Liaison Total",1
+119,547,76,"DiaSorin Liaison Total",1
+119,548,86.3,"DiaSorin Liaison Total",1
+119,549,67.9,"DiaSorin Liaison Total",1
+119,550,30.3,"DiaSorin Liaison Total",1
+120,546,46.3,"HPLC",9
+120,547,68.4,"HPLC",9
+120,548,76.6,"HPLC",9
+120,549,52.8,"HPLC",9
+120,550,20.5,"HPLC",9
+121,546,53,"IDS-iSYS",6
+121,547,65.8,"IDS-iSYS",6
+121,548,86.4,"IDS-iSYS",6
+121,549,64,"IDS-iSYS",6
+121,550,24.2,"IDS-iSYS",6
+122,546,55.8,"DiaSorin Liaison Total",1
+122,547,73,"DiaSorin Liaison Total",1
+122,548,96.8,"DiaSorin Liaison Total",1
+122,549,71,"DiaSorin Liaison Total",1
+122,550,30,"DiaSorin Liaison Total",1
+123,546,50.2,"LC-MS-MS",11
+123,547,68.1,"LC-MS-MS",11
+123,548,86.5,"LC-MS-MS",11
+123,549,63.1,"LC-MS-MS",11
+123,550,23.9,"LC-MS-MS",11
+124,546,33.4,"IDS EIA",8
+124,547,48.7,"IDS EIA",8
+124,548,64.8,"IDS EIA",8
+124,549,41.2,"IDS EIA",8
+124,550,16.4,"IDS EIA",8
+125,546,50.5,"LC-MS-MS",8
+125,547,69,"LC-MS-MS",8
+125,548,81.5,"LC-MS-MS",8
+125,549,58.8,"LC-MS-MS",8
+125,550,23.5,"LC-MS-MS",8
+126,546,47,"Roche Vitamin D Total II",1
+126,547,64,"Roche Vitamin D Total II",1
+126,548,78,"Roche Vitamin D Total II",1
+126,549,57,"Roche Vitamin D Total II",1
+126,550,24,"Roche Vitamin D Total II",1
+127,546,46.4,"LC-MS-MS",8
+127,547,58.9,"LC-MS-MS",8
+127,548,74.5,"LC-MS-MS",8
+127,549,53.8,"LC-MS-MS",8
+127,550,18.9,"LC-MS-MS",8
+128,546,62.9,"DiaSorin Liaison Total",17
+128,547,84.6,"DiaSorin Liaison Total",17
+128,548,103,"DiaSorin Liaison Total",17
+128,549,72.4,"DiaSorin Liaison Total",17
+128,550,33,"DiaSorin Liaison Total",17
+129,546,52,"Roche Total 25OHD",8
+129,547,80,"Roche Total 25OHD",8
+129,548,96,"Roche Total 25OHD",8
+129,549,60,"Roche Total 25OHD",8
+129,550,23,"Roche Total 25OHD",8
+130,546,52,"Roche Vitamin D Total II",4
+130,547,70.9,"Roche Vitamin D Total II",4
+130,548,89.5,"Roche Vitamin D Total II",4
+130,549,65.2,"Roche Vitamin D Total II",4
+130,550,26.3,"Roche Vitamin D Total II",4
+131,546,56.3,"DiaSorin Liaison Total",4
+131,547,71.3,"DiaSorin Liaison Total",4
+131,548,92.3,"DiaSorin Liaison Total",4
+131,549,67,"DiaSorin Liaison Total",4
+131,550,27.5,"DiaSorin Liaison Total",4
+132,546,60.4,"Roche Total 25OHD",1
+132,547,80,"Roche Total 25OHD",1
+132,548,95.1,"Roche Total 25OHD",1
+132,549,60.5,"Roche Total 25OHD",1
+132,550,26.1,"Roche Total 25OHD",1
+133,546,56.6,"DiaSorin Liaison Total",8
+133,547,73.6,"DiaSorin Liaison Total",8
+133,548,87.8,"DiaSorin Liaison Total",8
+133,549,65.4,"DiaSorin Liaison Total",8
+133,550,28.4,"DiaSorin Liaison Total",8
+134,546,46,"LC-MS-MS",8
+134,547,58,"LC-MS-MS",8
+134,548,92,"LC-MS-MS",8
+134,549,57,"LC-MS-MS",8
+134,550,20,"LC-MS-MS",8
+135,546,59.8,"DiaSorin Liaison Total",7
+135,547,77.3,"DiaSorin Liaison Total",7
+135,548,99.8,"DiaSorin Liaison Total",7
+135,549,73.3,"DiaSorin Liaison Total",7
+135,550,31,"DiaSorin Liaison Total",7
+136,546,52.4,"Roche Vitamin D Total II",4
+136,547,76,"Roche Vitamin D Total II",4
+136,548,92.6,"Roche Vitamin D Total II",4
+136,549,65.5,"Roche Vitamin D Total II",4
+136,550,32.3,"Roche Vitamin D Total II",4
+137,546,48.5,"LC-MS-MS",7
+137,547,68.8,"LC-MS-MS",7
+137,548,85.8,"LC-MS-MS",7
+137,549,69,"LC-MS-MS",7
+137,550,22.3,"LC-MS-MS",7
+138,546,56.7,"Roche Total 25OHD",4
+138,547,80.8,"Roche Total 25OHD",4
+138,548,95.5,"Roche Total 25OHD",4
+138,549,64.1,"Roche Total 25OHD",4
+138,550,26.5,"Roche Total 25OHD",4
+139,546,64.6,"Siemens ADVIA Centaur",8
+139,547,83.6,"Siemens ADVIA Centaur",8
+139,548,109.6,"Siemens ADVIA Centaur",8
+139,549,73.6,"Siemens ADVIA Centaur",8
+139,550,42.3,"Siemens ADVIA Centaur",8
+140,546,57,"HPLC",2
+140,547,86,"HPLC",2
+140,548,113,"HPLC",2
+140,549,68,"HPLC",2
+140,550,29,"HPLC",2
+141,546,60,"DiaSorin Liaison Total",8
+141,547,80,"DiaSorin Liaison Total",8
+141,548,97.5,"DiaSorin Liaison Total",8
+141,549,72.5,"DiaSorin Liaison Total",8
+141,550,30,"DiaSorin Liaison Total",8
+142,546,55,"DiaSorin Liaison Total",8
+142,547,75,"DiaSorin Liaison Total",8
+142,548,92.5,"DiaSorin Liaison Total",8
+142,549,65,"DiaSorin Liaison Total",8
+142,550,27.5,"DiaSorin Liaison Total",8
+143,546,60,"DiaSorin Liaison Total",4
+143,547,80,"DiaSorin Liaison Total",4
+143,548,97.5,"DiaSorin Liaison Total",4
+143,549,70,"DiaSorin Liaison Total",4
+143,550,30,"DiaSorin Liaison Total",4
+144,546,41.5,"Roche Vitamin D Total II",8
+144,547,67,"Roche Vitamin D Total II",8
+144,548,75.3,"Roche Vitamin D Total II",8
+144,549,56.3,"Roche Vitamin D Total II",8
+144,550,21.2,"Roche Vitamin D Total II",8
+145,546,53,"IDS-iSYS New",7
+145,547,79.8,"IDS-iSYS New",7
+145,548,96.3,"IDS-iSYS New",7
+145,549,67.3,"IDS-iSYS New",7
+145,550,24.3,"IDS-iSYS New",7
+146,546,65,"DiaSorin Liaison Total",8
+146,547,95,"DiaSorin Liaison Total",8
+146,548,114,"DiaSorin Liaison Total",8
+146,549,86,"DiaSorin Liaison Total",8
+146,550,34,"DiaSorin Liaison Total",8
+147,546,55.5,"DiaSorin Liaison Total",6
+147,547,73.5,"DiaSorin Liaison Total",6
+147,548,89,"DiaSorin Liaison Total",6
+147,549,63,"DiaSorin Liaison Total",6
+147,550,28,"DiaSorin Liaison Total",6
+148,546,51.9,"Abbott Architect - New (5P02)",4
+148,547,73.9,"Abbott Architect - New (5P02)",4
+148,548,97.3,"Abbott Architect - New (5P02)",4
+148,549,62.6,"Abbott Architect - New (5P02)",4
+148,550,24.2,"Abbott Architect - New (5P02)",4
+149,546,56.1,"DiaSorin Liaison Total",7
+149,547,71.6,"DiaSorin Liaison Total",7
+149,548,90.8,"DiaSorin Liaison Total",7
+149,549,65.4,"DiaSorin Liaison Total",7
+149,550,28.4,"DiaSorin Liaison Total",7
+150,546,52,"DiaSorin Liaison Total",7
+150,547,70.3,"DiaSorin Liaison Total",7
+150,548,86.8,"DiaSorin Liaison Total",7
+150,549,65.8,"DiaSorin Liaison Total",7
+150,550,29,"DiaSorin Liaison Total",7
+151,546,59,"DiaSorin Liaison Total",4
+151,547,76.9,"DiaSorin Liaison Total",4
+151,548,97.1,"DiaSorin Liaison Total",4
+151,549,70.9,"DiaSorin Liaison Total",4
+151,550,32.4,"DiaSorin Liaison Total",4
+152,546,54,"DiaSorin Liaison Total",14
+152,547,75,"DiaSorin Liaison Total",14
+152,548,93.2,"DiaSorin Liaison Total",14
+152,549,69.5,"DiaSorin Liaison Total",14
+152,550,30.2,"DiaSorin Liaison Total",14
+153,546,51.7,"DiaSorin Liaison Total",9
+153,547,68.5,"DiaSorin Liaison Total",9
+153,548,87.9,"DiaSorin Liaison Total",9
+153,549,63.1,"DiaSorin Liaison Total",9
+153,550,26.6,"DiaSorin Liaison Total",9
+154,546,52.5,"Roche Total 25OHD",14
+154,547,64,"Roche Total 25OHD",14
+154,548,87.8,"Roche Total 25OHD",14
+154,549,55.5,"Roche Total 25OHD",14
+154,550,28.5,"Roche Total 25OHD",14
+155,546,57.3,"DiaSorin Liaison Total",9
+155,547,79,"DiaSorin Liaison Total",9
+155,548,98.5,"DiaSorin Liaison Total",9
+155,549,73.5,"DiaSorin Liaison Total",9
+155,550,32,"DiaSorin Liaison Total",9
+156,546,58,"DiaSorin Liaison Total",7
+156,547,69.5,"DiaSorin Liaison Total",7
+156,548,86.4,"DiaSorin Liaison Total",7
+156,549,68.5,"DiaSorin Liaison Total",7
+156,550,28.6,"DiaSorin Liaison Total",7
+157,546,56.3,"DiaSorin Liaison Total",7
+157,547,79,"DiaSorin Liaison Total",7
+157,548,96.7,"DiaSorin Liaison Total",7
+157,549,70.3,"DiaSorin Liaison Total",7
+157,550,31.5,"DiaSorin Liaison Total",7
+158,546,56,"DiaSorin Liaison Total",10
+158,547,78.5,"DiaSorin Liaison Total",10
+158,548,95.8,"DiaSorin Liaison Total",10
+158,549,76,"DiaSorin Liaison Total",10
+158,550,31.5,"DiaSorin Liaison Total",10
+159,546,53.8,"IDS-iSYS",7
+159,547,67.5,"IDS-iSYS",7
+159,548,83.5,"IDS-iSYS",7
+159,549,56.8,"IDS-iSYS",7
+159,550,18.5,"IDS-iSYS",7
+160,546,50,"Ortho Total 25OHD",9
+160,547,71.3,"Ortho Total 25OHD",9
+160,548,79.8,"Ortho Total 25OHD",9
+160,549,66,"Ortho Total 25OHD",9
+160,550,20.5,"Ortho Total 25OHD",9
+161,546,52,"DiaSorin Liaison Total",9
+161,547,65,"DiaSorin Liaison Total",9
+161,548,80,"DiaSorin Liaison Total",9
+161,549,57,"DiaSorin Liaison Total",9
+161,550,27,"DiaSorin Liaison Total",9
+162,546,52.8,"DiaSorin Liaison Total",4
+162,547,73.5,"DiaSorin Liaison Total",4
+162,548,91.3,"DiaSorin Liaison Total",4
+162,549,67.5,"DiaSorin Liaison Total",4
+162,550,28,"DiaSorin Liaison Total",4
+163,546,62.8,"DiaSorin Liaison Total",8
+163,547,79.8,"DiaSorin Liaison Total",8
+163,548,105,"DiaSorin Liaison Total",8
+163,549,61,"DiaSorin Liaison Total",8
+163,550,30.8,"DiaSorin Liaison Total",8
+164,546,57.3,"DiaSorin Liaison Total",4
+164,547,79.8,"DiaSorin Liaison Total",4
+164,548,93.5,"DiaSorin Liaison Total",4
+164,549,72.5,"DiaSorin Liaison Total",4
+164,550,31,"DiaSorin Liaison Total",4
+165,546,48,"IDS EIA",7
+165,547,83,"IDS EIA",7
+165,548,95,"IDS EIA",7
+165,549,68,"IDS EIA",7
+165,550,30,"IDS EIA",7
+166,546,50.5,"DiaSorin Liaison Total",7
+166,547,72,"DiaSorin Liaison Total",7
+166,548,87.6,"DiaSorin Liaison Total",7
+166,549,66.5,"DiaSorin Liaison Total",7
+166,550,25.4,"DiaSorin Liaison Total",7
+167,546,50.2,"LC-MS-MS",7
+167,547,69.4,"LC-MS-MS",7
+167,548,90.1,"LC-MS-MS",7
+167,549,63.1,"LC-MS-MS",7
+167,550,24.5,"LC-MS-MS",7
+168,546,54.5,"LC-MS-MS",7
+168,547,69.5,"LC-MS-MS",7
+168,548,87.5,"LC-MS-MS",7
+168,549,62.8,"LC-MS-MS",7
+168,550,24,"LC-MS-MS",7
+169,546,53.3,"Abbott Alinity i",6
+169,547,72,"Abbott Alinity i",6
+169,548,99,"Abbott Alinity i",6
+169,549,61.8,"Abbott Alinity i",6
+169,550,22,"Abbott Alinity i",6
+170,546,49.5,"IDS-iSYS",3
+170,547,58.8,"IDS-iSYS",3
+170,548,75.3,"IDS-iSYS",3
+170,549,56,"IDS-iSYS",3
+170,550,17.5,"IDS-iSYS",3
+171,546,54.3,"DiaSorin Liaison Total",12
+171,547,76.3,"DiaSorin Liaison Total",12
+171,548,85.8,"DiaSorin Liaison Total",12
+171,549,69.8,"DiaSorin Liaison Total",12
+171,550,26.9,"DiaSorin Liaison Total",12
+172,546,54.3,"Roche Total 25OHD",8
+172,547,79,"Roche Total 25OHD",8
+172,548,91.4,"Roche Total 25OHD",8
+172,549,72,"Roche Total 25OHD",8
+172,550,30.6,"Roche Total 25OHD",8
+173,546,52.5,"Abbott Architect - New (5P02)",7
+173,547,74.8,"Abbott Architect - New (5P02)",7
+173,548,101.8,"Abbott Architect - New (5P02)",7
+173,549,64,"Abbott Architect - New (5P02)",7
+173,550,26,"Abbott Architect - New (5P02)",7
+174,546,46,"Roche Vitamin D Total II",2
+174,547,68,"Roche Vitamin D Total II",2
+174,548,85,"Roche Vitamin D Total II",2
+174,549,20,"Roche Vitamin D Total II",2
+174,550,58,"Roche Vitamin D Total II",2
+175,546,43.5,"LC-MS-MS",8
+175,547,66.3,"LC-MS-MS",8
+175,548,77,"LC-MS-MS",8
+175,549,53.7,"LC-MS-MS",8
+175,550,22.6,"LC-MS-MS",8
+176,546,58.3,"DiaSorin Liaison Total",6
+176,547,76,"DiaSorin Liaison Total",6
+176,548,96.5,"DiaSorin Liaison Total",6
+176,549,72.5,"DiaSorin Liaison Total",6
+176,550,31,"DiaSorin Liaison Total",6
+177,546,57,"IDS-iSYS",7
+177,547,65,"IDS-iSYS",7
+177,548,88.5,"IDS-iSYS",7
+177,549,61.8,"IDS-iSYS",7
+177,550,22.8,"IDS-iSYS",7
+178,546,55.8,"IDS-iSYS New",7
+178,547,67.5,"IDS-iSYS New",7
+178,548,91.3,"IDS-iSYS New",7
+178,549,63.6,"IDS-iSYS New",7
+178,550,27.7,"IDS-iSYS New",7
+179,546,57,"DiaSorin Liaison Total",7
+179,547,72,"DiaSorin Liaison Total",7
+179,548,94.3,"DiaSorin Liaison Total",7
+179,549,66.3,"DiaSorin Liaison Total",7
+179,550,29.3,"DiaSorin Liaison Total",7
+180,546,49.9,"Roche Total 25OHD",9
+180,547,73.3,"Roche Total 25OHD",9
+180,548,79.2,"Roche Total 25OHD",9
+180,549,57.6,"Roche Total 25OHD",9
+180,550,28.5,"Roche Total 25OHD",9
+181,546,59.8,"DiaSorin Liaison Total",8
+181,547,76.5,"DiaSorin Liaison Total",8
+181,548,101.8,"DiaSorin Liaison Total",8
+181,549,70,"DiaSorin Liaison Total",8
+181,550,28,"DiaSorin Liaison Total",8
+182,546,49.3,"Abbott Architect - New (5P02)",7
+182,547,70.3,"Abbott Architect - New (5P02)",7
+182,548,94,"Abbott Architect - New (5P02)",7
+182,549,59,"Abbott Architect - New (5P02)",7
+182,550,22.8,"Abbott Architect - New (5P02)",7
+183,546,45.5,"Automated IDS EIA",4
+183,547,57.3,"Automated IDS EIA",4
+183,548,73,"Automated IDS EIA",4
+183,549,54,"Automated IDS EIA",4
+183,550,28.3,"Automated IDS EIA",4
+184,546,59,"LC-MS-MS",1
+184,547,87,"LC-MS-MS",1
+184,548,100,"LC-MS-MS",1
+184,549,69,"LC-MS-MS",1
+184,550,27,"LC-MS-MS",1
+185,546,53.3,"IDS-iSYS New",8
+185,547,69,"IDS-iSYS New",8
+185,548,88.2,"IDS-iSYS New",8
+185,549,60.9,"IDS-iSYS New",8
+185,550,24.3,"IDS-iSYS New",8
+186,546,49.8,"Roche Vitamin D Total II",8
+186,547,66.8,"Roche Vitamin D Total II",8
+186,548,83.8,"Roche Vitamin D Total II",8
+186,549,56.8,"Roche Vitamin D Total II",8
+186,550,22.4,"Roche Vitamin D Total II",8
+187,546,49.4,"Abbott Architect - New (5P02)",4
+187,547,73.4,"Abbott Architect - New (5P02)",4
+187,548,95.6,"Abbott Architect - New (5P02)",4
+187,549,60.8,"Abbott Architect - New (5P02)",4
+187,550,22.7,"Abbott Architect - New (5P02)",4
+188,546,43.8,"LC-MS-MS",4
+188,547,66.6,"LC-MS-MS",4
+188,548,85.4,"LC-MS-MS",4
+188,549,54.4,"LC-MS-MS",4
+188,550,21,"LC-MS-MS",4
+189,546,43,"Beckman Unicel Dxi Total 25OHD",1
+189,547,57,"Beckman Unicel Dxi Total 25OHD",1
+189,548,80,"Beckman Unicel Dxi Total 25OHD",1
+189,549,53,"Beckman Unicel Dxi Total 25OHD",1
+189,550,21,"Beckman Unicel Dxi Total 25OHD",1
+190,546,55,"Beckman Unicel Dxi Total 25OHD",1
+190,547,67.7,"Beckman Unicel Dxi Total 25OHD",1
+190,548,90.5,"Beckman Unicel Dxi Total 25OHD",1
+190,549,56.2,"Beckman Unicel Dxi Total 25OHD",1
+190,550,30.3,"Beckman Unicel Dxi Total 25OHD",1
+191,546,46.5,"HPLC",2
+191,547,66.1,"HPLC",2
+191,548,83.8,"HPLC",2
+191,549,64.7,"HPLC",2
+191,550,25.9,"HPLC",2
+192,546,46.8,"LC-MS-MS",7
+192,547,69.3,"LC-MS-MS",7
+192,548,89,"LC-MS-MS",7
+192,549,54.3,"LC-MS-MS",7
+192,550,22.3,"LC-MS-MS",7
+193,546,50.8,"LC-MS-MS",7
+193,547,62,"LC-MS-MS",7
+193,548,83.4,"LC-MS-MS",7
+193,549,60.2,"LC-MS-MS",7
+193,550,29.8,"LC-MS-MS",7
+194,546,57.5,"LC-MS-MS",9
+194,547,77.9,"LC-MS-MS",9
+194,548,91.6,"LC-MS-MS",9
+194,549,65,"LC-MS-MS",9
+194,550,25,"LC-MS-MS",9
+195,546,57.4,"Siemens ADVIA Centaur",7
+195,547,67.3,"Siemens ADVIA Centaur",7
+195,548,89,"Siemens ADVIA Centaur",7
+195,549,63,"Siemens ADVIA Centaur",7
+195,550,32.6,"Siemens ADVIA Centaur",7
+196,546,59.5,"IDS-iSYS",4
+196,547,73.8,"IDS-iSYS",4
+196,548,88,"IDS-iSYS",4
+196,549,62.8,"IDS-iSYS",4
+196,550,22.5,"IDS-iSYS",4
+197,546,51.5,"DiaSorin Liaison Total",21
+197,547,75.5,"DiaSorin Liaison Total",21
+197,548,99.3,"DiaSorin Liaison Total",21
+197,549,72.5,"DiaSorin Liaison Total",21
+197,550,34.8,"DiaSorin Liaison Total",21
+198,546,49.2,"Roche Vitamin D Total II",7
+198,547,69.6,"Roche Vitamin D Total II",7
+198,548,81.4,"Roche Vitamin D Total II",7
+198,549,56.6,"Roche Vitamin D Total II",7
+198,550,20.7,"Roche Vitamin D Total II",7
+199,546,52.8,"DiaSorin Liaison Total",9
+199,547,67.5,"DiaSorin Liaison Total",9
+199,548,89.8,"DiaSorin Liaison Total",9
+199,549,65.3,"DiaSorin Liaison Total",9
+199,550,28.3,"DiaSorin Liaison Total",9
+200,546,50,"Beckman Unicel Dxi Total 25OHD",7
+200,547,77.5,"Beckman Unicel Dxi Total 25OHD",7
+200,548,75,"Beckman Unicel Dxi Total 25OHD",7
+200,549,62.5,"Beckman Unicel Dxi Total 25OHD",7
+200,550,25,"Beckman Unicel Dxi Total 25OHD",7
+201,546,56.7,"LC-MS-MS",7
+201,547,79.3,"LC-MS-MS",7
+201,548,104.1,"LC-MS-MS",7
+201,549,68.3,"LC-MS-MS",7
+201,550,27,"LC-MS-MS",7
+202,546,54,"IDS-iSYS",8
+202,547,73,"IDS-iSYS",8
+202,548,89.5,"IDS-iSYS",8
+202,549,57.8,"IDS-iSYS",8
+202,550,18.8,"IDS-iSYS",8
+203,546,60.3,"DiaSorin Liaison Total",7
+203,547,74,"DiaSorin Liaison Total",7
+203,548,95.3,"DiaSorin Liaison Total",7
+203,549,69,"DiaSorin Liaison Total",7
+203,550,30.8,"DiaSorin Liaison Total",7
+204,546,57.5,"DiaSorin Liaison Total",7
+204,547,72.8,"DiaSorin Liaison Total",7
+204,548,93,"DiaSorin Liaison Total",7
+204,549,69,"DiaSorin Liaison Total",7
+204,550,29.5,"DiaSorin Liaison Total",7
+205,546,60.5,"Abbott Alinity i",7
+205,547,75,"Abbott Alinity i",7
+205,548,101.8,"Abbott Alinity i",7
+205,549,57.3,"Abbott Alinity i",7
+205,550,22.5,"Abbott Alinity i",7
+206,546,58,"DiaSorin Liaison Total",4
+206,547,76.8,"DiaSorin Liaison Total",4
+206,548,96,"DiaSorin Liaison Total",4
+206,549,65.5,"DiaSorin Liaison Total",4
+206,550,31.8,"DiaSorin Liaison Total",4
+207,546,50.3,"Abbott Architect - New (5P02)",1
+207,547,68.3,"Abbott Architect - New (5P02)",1
+207,548,90.7,"Abbott Architect - New (5P02)",1
+207,549,60.9,"Abbott Architect - New (5P02)",1
+207,550,21.6,"Abbott Architect - New (5P02)",1
+208,546,41.5,"DiaSorin Liaison Total",16
+208,547,81.5,"DiaSorin Liaison Total",16
+208,548,103.5,"DiaSorin Liaison Total",16
+208,549,76.3,"DiaSorin Liaison Total",16
+208,550,32.8,"DiaSorin Liaison Total",16
+209,546,57.5,"LC-MS-MS",4
+209,547,82.5,"LC-MS-MS",4
+209,548,97.5,"LC-MS-MS",4
+209,549,65,"LC-MS-MS",4
+209,550,22.5,"LC-MS-MS",4
+210,546,62.5,"LC-MS-MS",8
+210,547,65,"LC-MS-MS",8
+210,548,85,"LC-MS-MS",8
+210,549,57.5,"LC-MS-MS",8
+210,550,20,"LC-MS-MS",8
+211,546,44.5,"Fujirebio Lumipulse G 25OH Vit D",6
+211,547,64.5,"Fujirebio Lumipulse G 25OH Vit D",6
+211,548,81.8,"Fujirebio Lumipulse G 25OH Vit D",6
+211,549,54,"Fujirebio Lumipulse G 25OH Vit D",6
+211,550,15.8,"Fujirebio Lumipulse G 25OH Vit D",6
+212,546,45.5,"Beckman Unicel Dxi Total 25OHD",11
+212,547,65,"Beckman Unicel Dxi Total 25OHD",11
+212,548,79.5,"Beckman Unicel Dxi Total 25OHD",11
+212,549,44.8,"Beckman Unicel Dxi Total 25OHD",11
+212,550,20.3,"Beckman Unicel Dxi Total 25OHD",11
+213,546,57.5,"DiaSorin Liaison Total",4
+213,547,76,"DiaSorin Liaison Total",4
+213,548,96.8,"DiaSorin Liaison Total",4
+213,549,72.3,"DiaSorin Liaison Total",4
+213,550,30.8,"DiaSorin Liaison Total",4
+214,546,60.8,"DiaSorin Liaison Total",4
+214,547,79,"DiaSorin Liaison Total",4
+214,548,99.3,"DiaSorin Liaison Total",4
+214,549,72.3,"DiaSorin Liaison Total",4
+214,550,29.8,"DiaSorin Liaison Total",4
+215,546,49.8,"LC-MS-MS",4
+215,547,71,"LC-MS-MS",4
+215,548,81.5,"LC-MS-MS",4
+215,549,41.3,"LC-MS-MS",4
+215,550,27.3,"LC-MS-MS",4
+216,546,52,"IDS-iSYS",4
+216,547,68.3,"IDS-iSYS",4
+216,548,86.8,"IDS-iSYS",4
+216,549,71.5,"IDS-iSYS",4
+216,550,29.8,"IDS-iSYS",4
+217,546,62.5,"Siemens ADVIA Centaur",7
+217,547,80.2,"Siemens ADVIA Centaur",7
+217,548,90.5,"Siemens ADVIA Centaur",7
+217,549,72.9,"Siemens ADVIA Centaur",7
+217,550,40.3,"Siemens ADVIA Centaur",7
+218,546,46.8,"IDS-iSYS",7
+218,547,63.8,"IDS-iSYS",7
+218,548,86.5,"IDS-iSYS",7
+218,549,60.8,"IDS-iSYS",7
+218,550,20.8,"IDS-iSYS",7
+219,546,55.4,"DiaSorin Liaison Total",10
+219,547,71.9,"DiaSorin Liaison Total",10
+219,548,93.6,"DiaSorin Liaison Total",10
+219,549,66.2,"DiaSorin Liaison Total",10
+219,550,28.8,"DiaSorin Liaison Total",10
+220,546,57.6,"LC-MS-MS",8
+220,547,76.8,"LC-MS-MS",8
+220,548,99.8,"LC-MS-MS",8
+220,549,68.8,"LC-MS-MS",8
+220,550,28.4,"LC-MS-MS",8
+221,546,49.8,"LC-MS-MS",7
+221,547,64.3,"LC-MS-MS",7
+221,548,79.3,"LC-MS-MS",7
+221,549,50.5,"LC-MS-MS",7
+221,550,22.5,"LC-MS-MS",7
+222,546,64.8,"IDS-iSYS",4
+222,547,77.2,"IDS-iSYS",4
+222,548,94.6,"IDS-iSYS",4
+222,549,68.7,"IDS-iSYS",4
+222,550,30.3,"IDS-iSYS",4
+223,546,52.3,"Abbott Alinity i",3
+223,547,73.4,"Abbott Alinity i",3
+223,548,93.6,"Abbott Alinity i",3
+223,549,61,"Abbott Alinity i",3
+223,550,22.2,"Abbott Alinity i",3
+224,546,44,"Beckman Unicel Dxi Total 25OHD",1
+224,547,63,"Beckman Unicel Dxi Total 25OHD",1
+224,548,76,"Beckman Unicel Dxi Total 25OHD",1
+224,549,50,"Beckman Unicel Dxi Total 25OHD",1
+224,550,20,"Beckman Unicel Dxi Total 25OHD",1
+225,546,56,"DiaSorin Liaison Total",8
+225,547,67,"DiaSorin Liaison Total",8
+225,548,92,"DiaSorin Liaison Total",8
+225,549,65,"DiaSorin Liaison Total",8
+225,550,23,"DiaSorin Liaison Total",8
+226,546,58.1,"IDS-iSYS",4
+226,547,62.2,"IDS-iSYS",4
+226,548,94.7,"IDS-iSYS",4
+226,549,61.2,"IDS-iSYS",4
+226,550,25.6,"IDS-iSYS",4
+227,546,51.3,"Abbott Architect - New (5P02)",15
+227,547,74.5,"Abbott Architect - New (5P02)",15
+227,548,90.3,"Abbott Architect - New (5P02)",15
+227,549,61.5,"Abbott Architect - New (5P02)",15
+227,550,24.5,"Abbott Architect - New (5P02)",15
+228,546,54.6,"Siemens ADVIA Centaur",7
+228,547,71,"Siemens ADVIA Centaur",7
+228,548,89.3,"Siemens ADVIA Centaur",7
+228,549,65.6,"Siemens ADVIA Centaur",7
+228,550,29.6,"Siemens ADVIA Centaur",7
+229,546,55,"LC-MS-MS",7
+229,547,71,"LC-MS-MS",7
+229,548,86,"LC-MS-MS",7
+229,549,64,"LC-MS-MS",7
+229,550,28,"LC-MS-MS",7
+230,546,62.4,"Siemens ADVIA Centaur",8
+230,547,77.4,"Siemens ADVIA Centaur",8
+230,548,96.6,"Siemens ADVIA Centaur",8
+230,549,71.6,"Siemens ADVIA Centaur",8
+230,550,32.3,"Siemens ADVIA Centaur",8
+231,546,55,"LC-MS-MS",7
+231,547,75,"LC-MS-MS",7
+231,548,90,"LC-MS-MS",7
+231,549,65,"LC-MS-MS",7
+231,550,24,"LC-MS-MS",7
+232,546,52.3,"DiaSorin Liaison Total",7
+232,547,70.5,"DiaSorin Liaison Total",7
+232,548,87,"DiaSorin Liaison Total",7
+232,549,63,"DiaSorin Liaison Total",7
+232,550,26,"DiaSorin Liaison Total",7
+233,546,50.3,"DiaSorin Liaison Total",4
+233,547,68.5,"DiaSorin Liaison Total",4
+233,548,87,"DiaSorin Liaison Total",4
+233,549,63.8,"DiaSorin Liaison Total",4
+233,550,27.3,"DiaSorin Liaison Total",4
+234,546,56.6,"Roche Total 25OHD",1
+234,547,91.5,"Roche Total 25OHD",1
+234,548,104.7,"Roche Total 25OHD",1
+234,549,62.5,"Roche Total 25OHD",1
+234,550,26.9,"Roche Total 25OHD",1
+235,546,48.8,"IDS-iSYS",3
+235,547,65.3,"IDS-iSYS",3
+235,548,91,"IDS-iSYS",3
+235,549,64,"IDS-iSYS",3
+235,550,27.5,"IDS-iSYS",3
+236,546,41.8,"Siemens ADVIA Centaur",4
+236,547,58,"Siemens ADVIA Centaur",4
+236,548,70.2,"Siemens ADVIA Centaur",4
+236,549,52.3,"Siemens ADVIA Centaur",4
+236,550,24,"Siemens ADVIA Centaur",4
+237,546,49.6,"Roche Total 25OHD",1
+237,547,70.6,"Roche Total 25OHD",1
+237,548,84.2,"Roche Total 25OHD",1
+237,549,57.7,"Roche Total 25OHD",1
+237,550,27.6,"Roche Total 25OHD",1
+238,546,57.4,"DiaSorin Liaison Total",10
+238,547,77.3,"DiaSorin Liaison Total",10
+238,548,98.3,"DiaSorin Liaison Total",10
+238,549,66.3,"DiaSorin Liaison Total",10
+238,550,30.7,"DiaSorin Liaison Total",10
+239,546,55.4,"DiaSorin Liaison Total",6
+239,547,71.8,"DiaSorin Liaison Total",6
+239,548,94.6,"DiaSorin Liaison Total",6
+239,549,67.8,"DiaSorin Liaison Total",6
+239,550,29.7,"DiaSorin Liaison Total",6
+240,546,59.9,"DiaSorin Liaison Total",7
+240,547,75.8,"DiaSorin Liaison Total",7
+240,548,97.1,"DiaSorin Liaison Total",7
+240,549,70.9,"DiaSorin Liaison Total",7
+240,550,31,"DiaSorin Liaison Total",7
+241,546,50.5,"DiaSorin Liaison Total",3
+241,547,71.3,"DiaSorin Liaison Total",3
+241,548,89.8,"DiaSorin Liaison Total",3
+241,549,64.8,"DiaSorin Liaison Total",3
+241,550,28,"DiaSorin Liaison Total",3
+242,546,53,"DiaSorin Liaison Total",8
+242,547,68.3,"DiaSorin Liaison Total",8
+242,548,86.8,"DiaSorin Liaison Total",8
+242,549,61.8,"DiaSorin Liaison Total",8
+242,550,27.8,"DiaSorin Liaison Total",8
+243,546,62.9,"DiaSorin Liaison Total",22
+243,547,83.4,"DiaSorin Liaison Total",22
+243,548,101.1,"DiaSorin Liaison Total",22
+243,549,74.6,"DiaSorin Liaison Total",22
+243,550,34.2,"DiaSorin Liaison Total",22
+244,546,49,"Beckman Unicel Dxi Total 25OHD",4
+244,547,74,"Beckman Unicel Dxi Total 25OHD",4
+244,548,98,"Beckman Unicel Dxi Total 25OHD",4
+244,549,61,"Beckman Unicel Dxi Total 25OHD",4
+244,550,27,"Beckman Unicel Dxi Total 25OHD",4
+245,546,77.3,"Beckman Unicel Dxi Total 25OHD",7
+245,547,85.3,"Beckman Unicel Dxi Total 25OHD",7
+245,548,104.7,"Beckman Unicel Dxi Total 25OHD",7
+245,549,74,"Beckman Unicel Dxi Total 25OHD",7
+245,550,45.4,"Beckman Unicel Dxi Total 25OHD",7
+246,546,52,"Roche Vitamin D Total II",7
+246,547,75,"Roche Vitamin D Total II",7
+246,548,91,"Roche Vitamin D Total II",7
+246,549,63,"Roche Vitamin D Total II",7
+246,550,25,"Roche Vitamin D Total II",7
+247,546,60,"DiaSorin Liaison Total",5
+247,547,80,"DiaSorin Liaison Total",5
+247,548,88,"DiaSorin Liaison Total",5
+247,549,65,"DiaSorin Liaison Total",5
+247,550,25,"DiaSorin Liaison Total",5
+248,546,49.5,"LC-MS-MS",7
+248,547,50.7,"LC-MS-MS",7
+248,548,63,"LC-MS-MS",7
+248,549,59.9,"LC-MS-MS",7
+248,550,23.4,"LC-MS-MS",7
+249,546,47.4,"Beckman Unicel Dxi Total 25OHD",7
+249,547,64.9,"Beckman Unicel Dxi Total 25OHD",7
+249,548,82.8,"Beckman Unicel Dxi Total 25OHD",7
+249,549,53.8,"Beckman Unicel Dxi Total 25OHD",7
+249,550,33.5,"Beckman Unicel Dxi Total 25OHD",7
+250,546,59.7,"DiaSorin Liaison Total",4
+250,547,83.5,"DiaSorin Liaison Total",4
+250,548,108.7,"DiaSorin Liaison Total",4
+250,549,79,"DiaSorin Liaison Total",4
+250,550,25.5,"DiaSorin Liaison Total",4
+251,546,40,"Roche Vitamin D Total II",1
+251,547,68,"Roche Vitamin D Total II",1
+251,548,83,"Roche Vitamin D Total II",1
+251,549,57,"Roche Vitamin D Total II",1
+251,550,21,"Roche Vitamin D Total II",1
+252,546,53,"Beckman Unicel Dxi Total 25OHD",3
+252,547,66,"Beckman Unicel Dxi Total 25OHD",3
+252,548,91,"Beckman Unicel Dxi Total 25OHD",3
+252,549,50,"Beckman Unicel Dxi Total 25OHD",3
+252,550,30,"Beckman Unicel Dxi Total 25OHD",3
+253,546,56.6,"Siemens ADVIA Centaur",9
+253,547,72.9,"Siemens ADVIA Centaur",9
+253,548,95.7,"Siemens ADVIA Centaur",9
+253,549,71,"Siemens ADVIA Centaur",9
+253,550,32.2,"Siemens ADVIA Centaur",9
+254,546,48.4,"LC-MS-MS",4
+254,547,69.6,"LC-MS-MS",4
+254,548,88.1,"LC-MS-MS",4
+254,549,57.7,"LC-MS-MS",4
+254,550,22.7,"LC-MS-MS",4
+255,546,53.8,"DiaSorin Liaison Total",7
+255,547,76.5,"DiaSorin Liaison Total",7
+255,548,89.3,"DiaSorin Liaison Total",7
+255,549,71.3,"DiaSorin Liaison Total",7
+255,550,27,"DiaSorin Liaison Total",7
+256,546,59.8,"DiaSorin Liaison Total",4
+256,547,78.3,"DiaSorin Liaison Total",4
+256,548,100.5,"DiaSorin Liaison Total",4
+256,549,68.8,"DiaSorin Liaison Total",4
+256,550,30.5,"DiaSorin Liaison Total",4
+257,546,47,"Abbott Architect - New (5P02)",4
+257,547,68,"Abbott Architect - New (5P02)",4
+257,548,94,"Abbott Architect - New (5P02)",4
+257,549,56,"Abbott Architect - New (5P02)",4
+257,550,20,"Abbott Architect - New (5P02)",4
+258,546,49.6,"Roche Total 25OHD",4
+258,547,73,"Roche Total 25OHD",4
+258,548,86.2,"Roche Total 25OHD",4
+258,549,57.7,"Roche Total 25OHD",4
+258,550,28.6,"Roche Total 25OHD",4
+259,546,63.3,"DiaSorin Liaison Total",4
+259,547,84.8,"DiaSorin Liaison Total",4
+259,548,108.3,"DiaSorin Liaison Total",4
+259,549,80,"DiaSorin Liaison Total",4
+259,550,34.8,"DiaSorin Liaison Total",4
+260,546,45,"LC-MS-MS",7
+260,547,72.5,"LC-MS-MS",7
+260,548,82.5,"LC-MS-MS",7
+260,549,60,"LC-MS-MS",7
+260,550,22.5,"LC-MS-MS",7
+261,546,51,"Roche Vitamin D Total II",2
+261,547,72.4,"Roche Vitamin D Total II",2
+261,548,89.8,"Roche Vitamin D Total II",2
+261,549,67,"Roche Vitamin D Total II",2
+261,550,26.5,"Roche Vitamin D Total II",2
+262,546,61,"LC-MS-MS",8
+262,547,84.5,"LC-MS-MS",8
+262,548,97.5,"LC-MS-MS",8
+262,549,79,"LC-MS-MS",8
+262,550,27.3,"LC-MS-MS",8
+263,546,52.6,"Roche Vitamin D Total II",1
+263,547,78.4,"Roche Vitamin D Total II",1
+263,548,93.6,"Roche Vitamin D Total II",1
+263,549,69.6,"Roche Vitamin D Total II",1
+263,550,28.5,"Roche Vitamin D Total II",1
+264,546,61,"LC-MS-MS",1
+264,547,90,"LC-MS-MS",1
+264,548,101,"LC-MS-MS",1
+264,549,75,"LC-MS-MS",1
+264,550,23,"LC-MS-MS",1
+265,546,50,"Roche Vitamin D Total II",1
+265,547,70,"Roche Vitamin D Total II",1
+265,548,85,"Roche Vitamin D Total II",1
+265,549,60,"Roche Vitamin D Total II",1
+265,550,27,"Roche Vitamin D Total II",1
+266,546,60,"DiaSorin Liaison Total",8
+266,547,78.5,"DiaSorin Liaison Total",8
+266,548,94.8,"DiaSorin Liaison Total",8
+266,549,69.8,"DiaSorin Liaison Total",8
+266,550,31.2,"DiaSorin Liaison Total",8
+267,546,62.5,"Roche Total 25OHD",3
+267,547,102.5,"Roche Total 25OHD",3
+267,548,117.5,"Roche Total 25OHD",3
+267,549,70,"Roche Total 25OHD",3
+267,550,30,"Roche Total 25OHD",3
+268,546,43.1,"DBC 25OH Vit D ELISA",3
+268,547,59.9,"DBC 25OH Vit D ELISA",3
+268,548,66.5,"DBC 25OH Vit D ELISA",3
+268,549,47.9,"DBC 25OH Vit D ELISA",3
+268,550,19.1,"DBC 25OH Vit D ELISA",3
+269,546,45,"Beckman Unicel Dxi Total 25OHD",1
+269,547,68,"Beckman Unicel Dxi Total 25OHD",1
+269,548,86,"Beckman Unicel Dxi Total 25OHD",1
+269,549,55,"Beckman Unicel Dxi Total 25OHD",1
+269,550,26,"Beckman Unicel Dxi Total 25OHD",1
+270,546,78.6,"LC-MS-MS",1
+270,547,110,"LC-MS-MS",1
+270,548,135,"LC-MS-MS",1
+270,549,101.6,"LC-MS-MS",1
+270,550,37.9,"LC-MS-MS",1
+271,546,51.3,"Abbott Alinity i",10
+271,547,75,"Abbott Alinity i",10
+271,548,97.2,"Abbott Alinity i",10
+271,549,62.5,"Abbott Alinity i",10
+271,550,22,"Abbott Alinity i",10
+272,546,46.8,"Roche Vitamin D Total II",15
+272,547,61,"Roche Vitamin D Total II",15
+272,548,78.3,"Roche Vitamin D Total II",15
+272,549,52.5,"Roche Vitamin D Total II",15
+272,550,22.9,"Roche Vitamin D Total II",15
+273,546,47.5,"Abbott Architect - New (5P02)",6
+273,547,70,"Abbott Architect - New (5P02)",6
+273,548,87.5,"Abbott Architect - New (5P02)",6
+273,549,60,"Abbott Architect - New (5P02)",6
+273,550,20,"Abbott Architect - New (5P02)",6
+274,546,47.5,"LC-MS-MS",4
+274,547,70.5,"LC-MS-MS",4
+274,548,83.7,"LC-MS-MS",4
+274,549,57.7,"LC-MS-MS",4
+274,550,23.7,"LC-MS-MS",4
+275,546,56,"Roche Total 25OHD",10
+275,547,90,"Roche Total 25OHD",10
+275,548,104,"Roche Total 25OHD",10
+275,549,65,"Roche Total 25OHD",10
+275,550,25,"Roche Total 25OHD",10
+276,546,54,"Roche Vitamin D Total II",1
+276,547,73.9,"Roche Vitamin D Total II",1
+276,548,90.5,"Roche Vitamin D Total II",1
+276,549,67.8,"Roche Vitamin D Total II",1
+276,550,33.5,"Roche Vitamin D Total II",1
+277,546,55.3,"DiaSorin Liaison Total",14
+277,547,81.8,"DiaSorin Liaison Total",14
+277,548,93,"DiaSorin Liaison Total",14
+277,549,73.3,"DiaSorin Liaison Total",14
+277,550,29.5,"DiaSorin Liaison Total",14
+278,546,46,"LC-MS-MS",7
+278,547,78,"LC-MS-MS",7
+278,548,80,"LC-MS-MS",7
+278,549,58,"LC-MS-MS",7
+278,550,31,"LC-MS-MS",7
+279,546,51.4,"Roche Total 25OHD",14
+279,547,77.9,"Roche Total 25OHD",14
+279,548,95.6,"Roche Total 25OHD",14
+279,549,58.5,"Roche Total 25OHD",14
+279,550,23.7,"Roche Total 25OHD",14
+280,546,54.5,"LC-MS-MS",4
+280,547,75.1,"LC-MS-MS",4
+280,548,89.5,"LC-MS-MS",4
+280,549,59.4,"LC-MS-MS",4
+280,550,30.1,"LC-MS-MS",4
+281,546,49.9,"Roche Total 25OHD",8
+281,547,69.9,"Roche Total 25OHD",8
+281,548,82.9,"Roche Total 25OHD",8
+281,549,57.9,"Roche Total 25OHD",8
+281,550,29.2,"Roche Total 25OHD",8
+282,546,49.8,"Abbott Architect - New (5P02)",15
+282,547,72.8,"Abbott Architect - New (5P02)",15
+282,548,90.5,"Abbott Architect - New (5P02)",15
+282,549,57.8,"Abbott Architect - New (5P02)",15
+282,550,23.5,"Abbott Architect - New (5P02)",15
+283,546,55.5,"Roche Vitamin D Total II",7
+283,547,69.3,"Roche Vitamin D Total II",7
+283,548,91.5,"Roche Vitamin D Total II",7
+283,549,62.9,"Roche Vitamin D Total II",7
+283,550,24.6,"Roche Vitamin D Total II",7
+284,546,54.3,"Roche Total 25OHD",7
+284,547,79.8,"Roche Total 25OHD",7
+284,548,98,"Roche Total 25OHD",7
+284,549,60.7,"Roche Total 25OHD",7
+284,550,24.4,"Roche Total 25OHD",7
+285,546,51.3,"Roche Vitamin D Total II",4
+285,547,71.8,"Roche Vitamin D Total II",4
+285,548,84.2,"Roche Vitamin D Total II",4
+285,549,62.3,"Roche Vitamin D Total II",4
+285,550,26.8,"Roche Vitamin D Total II",4
+286,546,53.7,"Roche Vitamin D Total II",14
+286,547,72.2,"Roche Vitamin D Total II",14
+286,548,85.7,"Roche Vitamin D Total II",14
+286,549,63,"Roche Vitamin D Total II",14
+286,550,26.7,"Roche Vitamin D Total II",14
+287,546,53,"Roche Total 25OHD",6
+287,547,74.5,"Roche Total 25OHD",6
+287,548,84.2,"Roche Total 25OHD",6
+287,549,62.2,"Roche Total 25OHD",6
+287,550,28.2,"Roche Total 25OHD",6
+288,546,51,"Roche Vitamin D Total II",10
+288,547,81,"Roche Vitamin D Total II",10
+288,548,90,"Roche Vitamin D Total II",10
+288,549,67,"Roche Vitamin D Total II",10
+288,550,29,"Roche Vitamin D Total II",10
+289,546,49.8,"Roche Total 25OHD",10
+289,547,76.8,"Roche Total 25OHD",10
+289,548,94.4,"Roche Total 25OHD",10
+289,549,55,"Roche Total 25OHD",10
+289,550,20.7,"Roche Total 25OHD",10
+290,546,50.3,"DiaSorin Liaison Total",7
+290,547,69,"DiaSorin Liaison Total",7
+290,548,90.3,"DiaSorin Liaison Total",7
+290,549,64.5,"DiaSorin Liaison Total",7
+290,550,27,"DiaSorin Liaison Total",7
+291,546,50.9,"Euroimmun ELISA",7
+291,547,71.8,"Euroimmun ELISA",7
+291,548,81.8,"Euroimmun ELISA",7
+291,549,52,"Euroimmun ELISA",7
+291,550,24,"Euroimmun ELISA",7
+292,546,54.3,"LC-MS-MS",7
+292,547,72.5,"LC-MS-MS",7
+292,548,91.8,"LC-MS-MS",7
+292,549,65.5,"LC-MS-MS",7
+292,550,23.3,"LC-MS-MS",7
+293,546,57.8,"DiaSorin Liaison Total",8
+293,547,77,"DiaSorin Liaison Total",8
+293,548,102,"DiaSorin Liaison Total",8
+293,549,73,"DiaSorin Liaison Total",8
+293,550,28.8,"DiaSorin Liaison Total",8
+294,546,56,"Siemens ADVIA Centaur",7
+294,547,86,"Siemens ADVIA Centaur",7
+294,548,97,"Siemens ADVIA Centaur",7
+294,549,72,"Siemens ADVIA Centaur",7
+294,550,32,"Siemens ADVIA Centaur",7
+295,546,54,"Roche Vitamin D Total II",7
+295,547,74,"Roche Vitamin D Total II",7
+295,548,88,"Roche Vitamin D Total II",7
+295,549,65,"Roche Vitamin D Total II",7
+295,550,30,"Roche Vitamin D Total II",7
+296,546,52.3,"DiaSorin Liaison Total",7
+296,547,70.3,"DiaSorin Liaison Total",7
+296,548,87,"DiaSorin Liaison Total",7
+296,549,62.5,"DiaSorin Liaison Total",7
+296,550,27.3,"DiaSorin Liaison Total",7
+297,546,42.8,"Beckman Unicel Dxi Total 25OHD",3
+297,547,72.9,"Beckman Unicel Dxi Total 25OHD",3
+297,548,79.9,"Beckman Unicel Dxi Total 25OHD",3
+297,549,57.6,"Beckman Unicel Dxi Total 25OHD",3
+297,550,23,"Beckman Unicel Dxi Total 25OHD",3
+298,546,54.2,"DiaSorin Liaison Total",28
+298,547,65.5,"DiaSorin Liaison Total",28
+298,548,85.2,"DiaSorin Liaison Total",28
+298,549,56.9,"DiaSorin Liaison Total",28
+298,550,28.1,"DiaSorin Liaison Total",28
+299,546,55,"DiaSorin Liaison Total",6
+299,547,72.5,"DiaSorin Liaison Total",6
+299,548,87.5,"DiaSorin Liaison Total",6
+299,549,65,"DiaSorin Liaison Total",6
+299,550,27.5,"DiaSorin Liaison Total",6
+300,546,45.5,"Abbott Architect - New (5P02)",21
+300,547,65.6,"Abbott Architect - New (5P02)",21
+300,548,84.5,"Abbott Architect - New (5P02)",21
+300,549,55,"Abbott Architect - New (5P02)",21
+300,550,19.5,"Abbott Architect - New (5P02)",21
+301,546,60.7,"LC-MS-MS",22
+301,547,71.8,"LC-MS-MS",22
+301,548,92.3,"LC-MS-MS",22
+301,549,62.2,"LC-MS-MS",22
+301,550,28.9,"LC-MS-MS",22
+302,546,56.2,"DiaSorin Liaison Total",5
+302,547,76.2,"DiaSorin Liaison Total",5
+302,548,89.6,"DiaSorin Liaison Total",5
+302,549,71.3,"DiaSorin Liaison Total",5
+302,550,28.2,"DiaSorin Liaison Total",5
+303,546,56.7,"DiaSorin Liaison Total",7
+303,547,77.6,"DiaSorin Liaison Total",7
+303,548,94.2,"DiaSorin Liaison Total",7
+303,549,67.4,"DiaSorin Liaison Total",7
+303,550,25.5,"DiaSorin Liaison Total",7
+304,546,56,"DiaSorin Liaison Total",11
+304,547,72.8,"DiaSorin Liaison Total",11
+304,548,97,"DiaSorin Liaison Total",11
+304,549,70.5,"DiaSorin Liaison Total",11
+304,550,31,"DiaSorin Liaison Total",11
+305,546,57.5,"DiaSorin Liaison Total",10
+305,547,75,"DiaSorin Liaison Total",10
+305,548,92.5,"DiaSorin Liaison Total",10
+305,549,65,"DiaSorin Liaison Total",10
+305,550,30,"DiaSorin Liaison Total",10
+306,546,48.5,"Abbott Architect - New (5P02)",6
+306,547,70.5,"Abbott Architect - New (5P02)",6
+306,548,91.8,"Abbott Architect - New (5P02)",6
+306,549,61,"Abbott Architect - New (5P02)",6
+306,550,23,"Abbott Architect - New (5P02)",6
+307,546,50.3,"DiaSorin Liaison Total",5
+307,547,67.5,"DiaSorin Liaison Total",5
+307,548,87.3,"DiaSorin Liaison Total",5
+307,549,64.3,"DiaSorin Liaison Total",5
+307,550,26.8,"DiaSorin Liaison Total",5
+308,546,54.4,"Beckman Unicel Dxi Total 25OHD",14
+308,547,80.2,"Beckman Unicel Dxi Total 25OHD",14
+308,548,85,"Beckman Unicel Dxi Total 25OHD",14
+308,549,61.4,"Beckman Unicel Dxi Total 25OHD",14
+308,550,33.8,"Beckman Unicel Dxi Total 25OHD",14
+309,546,47.8,"Roche Vitamin D Total II",13
+309,547,68.8,"Roche Vitamin D Total II",13
+309,548,85.5,"Roche Vitamin D Total II",13
+309,549,62.8,"Roche Vitamin D Total II",13
+309,550,26.5,"Roche Vitamin D Total II",13
+310,546,56.6,"IDS-iSYS",11
+310,547,70.8,"IDS-iSYS",11
+310,548,94.9,"IDS-iSYS",11
+310,549,69.5,"IDS-iSYS",11
+310,550,19.9,"IDS-iSYS",11
+311,546,59.3,"IDS-iSYS",7
+311,547,78.3,"IDS-iSYS",7
+311,548,93.5,"IDS-iSYS",7
+311,549,64.3,"IDS-iSYS",7
+311,550,27.5,"IDS-iSYS",7
+312,546,53,"LC-MS-MS",7
+312,547,71,"LC-MS-MS",7
+312,548,89,"LC-MS-MS",7
+312,549,59,"LC-MS-MS",7
+312,550,26,"LC-MS-MS",7
+313,546,48.8,"Abbott Architect - New (5P02)",4
+313,547,67.3,"Abbott Architect - New (5P02)",4
+313,548,91.5,"Abbott Architect - New (5P02)",4
+313,549,56.8,"Abbott Architect - New (5P02)",4
+313,550,23,"Abbott Architect - New (5P02)",4
+314,546,61,"LC-MS-MS",10
+314,547,85,"LC-MS-MS",10
+314,548,103,"LC-MS-MS",10
+314,549,73,"LC-MS-MS",10
+314,550,31,"LC-MS-MS",10
+315,546,56.9,"Siemens ADVIA Centaur",7
+315,547,71.8,"Siemens ADVIA Centaur",7
+315,548,95.7,"Siemens ADVIA Centaur",7
+315,549,62.3,"Siemens ADVIA Centaur",7
+315,550,37.9,"Siemens ADVIA Centaur",7
+316,546,51,"Abbott Architect - New (5P02)",8
+316,547,72.8,"Abbott Architect - New (5P02)",8
+316,548,89.3,"Abbott Architect - New (5P02)",8
+316,549,61.5,"Abbott Architect - New (5P02)",8
+316,550,24,"Abbott Architect - New (5P02)",8
+317,546,56.3,"DiaSorin Liaison Total",7
+317,547,75.3,"DiaSorin Liaison Total",7
+317,548,97.8,"DiaSorin Liaison Total",7
+317,549,67.8,"DiaSorin Liaison Total",7
+317,550,26.8,"DiaSorin Liaison Total",7
+318,546,55,"DiaSorin Liaison Total",7
+318,547,67.5,"DiaSorin Liaison Total",7
+318,548,77.5,"DiaSorin Liaison Total",7
+318,549,62.5,"DiaSorin Liaison Total",7
+318,550,25,"DiaSorin Liaison Total",7
+319,546,53,"Siemens ADVIA Centaur",8
+319,547,66.5,"Siemens ADVIA Centaur",8
+319,548,92.4,"Siemens ADVIA Centaur",8
+319,549,72.8,"Siemens ADVIA Centaur",8
+319,550,26.2,"Siemens ADVIA Centaur",8
+320,546,65.3,"HPLC",9
+320,547,119.3,"HPLC",9
+320,548,108.5,"HPLC",9
+320,549,61.8,"HPLC",9
+320,550,35.5,"HPLC",9
+321,546,45.4,"HPLC",7
+321,547,78,"HPLC",7
+321,548,92.1,"HPLC",7
+321,549,64.5,"HPLC",7
+321,550,24.9,"HPLC",7
+322,546,48,"IDS EIA",11
+322,547,83,"IDS EIA",11
+322,548,95,"IDS EIA",11
+322,549,68,"IDS EIA",11
+322,550,30,"IDS EIA",11
+323,546,47,"Abbott Architect - New (5P02)",7
+323,547,67,"Abbott Architect - New (5P02)",7
+323,548,87,"Abbott Architect - New (5P02)",7
+323,549,58,"Abbott Architect - New (5P02)",7
+323,550,20,"Abbott Architect - New (5P02)",7
+324,546,58.5,"Roche Total 25OHD",21
+324,547,84.4,"Roche Total 25OHD",21
+324,548,97.9,"Roche Total 25OHD",21
+324,549,63.5,"Roche Total 25OHD",21
+324,550,23.7,"Roche Total 25OHD",21
+325,546,49.5,"DiaSorin Liaison Total",11
+325,547,66.3,"DiaSorin Liaison Total",11
+325,548,88.1,"DiaSorin Liaison Total",11
+325,549,66,"DiaSorin Liaison Total",11
+325,550,27.6,"DiaSorin Liaison Total",11
+326,546,41.3,"IDS EIA",7
+326,547,56.7,"IDS EIA",7
+326,548,66.1,"IDS EIA",7
+326,549,52.1,"IDS EIA",7
+326,550,26.3,"IDS EIA",7
+327,546,61.6,"LC-MS-MS",1
+327,547,74.1,"LC-MS-MS",1
+327,548,96.6,"LC-MS-MS",1
+327,549,63,"LC-MS-MS",1
+327,550,24.7,"LC-MS-MS",1
+328,546,52.1,"IDS EIA",4
+328,547,66.3,"IDS EIA",4
+328,548,81.9,"IDS EIA",4
+328,549,62.8,"IDS EIA",4
+328,550,33.5,"IDS EIA",4
+329,546,50.4,"Roche Total 25OHD",1
+329,547,82,"Roche Total 25OHD",1
+329,548,95.5,"Roche Total 25OHD",1
+329,549,56.3,"Roche Total 25OHD",1
+329,550,21.7,"Roche Total 25OHD",1
+330,546,49.7,"LC-MS-MS",7
+330,547,64.4,"LC-MS-MS",7
+330,548,82.3,"LC-MS-MS",7
+330,549,64.1,"LC-MS-MS",7
+330,550,23.8,"LC-MS-MS",7
+331,546,53,"LC-MS-MS",7
+331,547,70,"LC-MS-MS",7
+331,548,87,"LC-MS-MS",7
+331,549,60,"LC-MS-MS",7
+331,550,25,"LC-MS-MS",7
+332,546,48.2,"LC-MS-MS",1
+332,547,72.7,"LC-MS-MS",1
+332,548,90.3,"LC-MS-MS",1
+332,549,60.8,"LC-MS-MS",1
+332,550,27.5,"LC-MS-MS",1
+333,546,52.3,"Abbott Architect - New (5P02)",1
+333,547,74.8,"Abbott Architect - New (5P02)",1
+333,548,101,"Abbott Architect - New (5P02)",1
+333,549,62.7,"Abbott Architect - New (5P02)",1
+333,550,23.8,"Abbott Architect - New (5P02)",1
+334,546,58.8,"DiaSorin Liaison Total",8
+334,547,76.3,"DiaSorin Liaison Total",8
+334,548,100.5,"DiaSorin Liaison Total",8
+334,549,72,"DiaSorin Liaison Total",8
+334,550,31.5,"DiaSorin Liaison Total",8
+335,546,55,"Abbott Architect - New (5P02)",22
+335,547,79.5,"Abbott Architect - New (5P02)",22
+335,548,100.1,"Abbott Architect - New (5P02)",22
+335,549,69.5,"Abbott Architect - New (5P02)",22
+335,550,24.3,"Abbott Architect - New (5P02)",22
+336,546,55.6,"Tosoh AIA",4
+336,547,84.1,"Tosoh AIA",4
+336,548,94.8,"Tosoh AIA",4
+336,549,62.9,"Tosoh AIA",4
+336,550,23.6,"Tosoh AIA",4
+337,546,47.4,"Roche Vitamin D Total II",7
+337,547,66.9,"Roche Vitamin D Total II",7
+337,548,84.6,"Roche Vitamin D Total II",7
+337,549,55.5,"Roche Vitamin D Total II",7
+337,550,23.6,"Roche Vitamin D Total II",7
+338,546,46,"Unknown",1
+338,547,56,"Unknown",1
+338,548,69,"Unknown",1
+338,549,52,"Unknown",1
+338,550,30,"Unknown",1
+339,546,57.8,"Roche Total 25OHD",3
+339,547,87.5,"Roche Total 25OHD",3
+339,548,103.5,"Roche Total 25OHD",3
+339,549,67.1,"Roche Total 25OHD",3
+339,550,25.5,"Roche Total 25OHD",3
+340,546,62,"DiaSorin Liaison Total",7
+340,547,80,"DiaSorin Liaison Total",7
+340,548,98,"DiaSorin Liaison Total",7
+340,549,66,"DiaSorin Liaison Total",7
+340,550,29,"DiaSorin Liaison Total",7
+341,546,54.3,"Abbott Architect - New (5P02)",7
+341,547,74.3,"Abbott Architect - New (5P02)",7
+341,548,95.1,"Abbott Architect - New (5P02)",7
+341,549,62.6,"Abbott Architect - New (5P02)",7
+341,550,24.1,"Abbott Architect - New (5P02)",7
+342,546,45.1,"Roche Total 25OHD",12
+342,547,72.9,"Roche Total 25OHD",12
+342,548,84.7,"Roche Total 25OHD",12
+342,549,50.5,"Roche Total 25OHD",12
+342,550,18.9,"Roche Total 25OHD",12
+343,546,55.5,"Siemens ADVIA Centaur",7
+343,547,62.5,"Siemens ADVIA Centaur",7
+343,548,79.5,"Siemens ADVIA Centaur",7
+343,549,57.5,"Siemens ADVIA Centaur",7
+343,550,25.3,"Siemens ADVIA Centaur",7
+344,546,47.5,"Roche Vitamin D Total II",10
+344,547,67.5,"Roche Vitamin D Total II",10
+344,548,77.5,"Roche Vitamin D Total II",10
+344,549,57.5,"Roche Vitamin D Total II",10
+344,550,25,"Roche Vitamin D Total II",10
+345,546,51.7,"Abbott Architect - New (5P02)",2
+345,547,73.7,"Abbott Architect - New (5P02)",2
+345,548,94.7,"Abbott Architect - New (5P02)",2
+345,549,61.3,"Abbott Architect - New (5P02)",2
+345,550,23,"Abbott Architect - New (5P02)",2
+346,546,54.3,"LC-MS-MS",1
+346,547,78.1,"LC-MS-MS",1
+346,548,94.9,"LC-MS-MS",1
+346,549,66.2,"LC-MS-MS",1
+346,550,32.3,"LC-MS-MS",1
+347,546,57,"Siemens ADVIA Centaur",1
+347,547,74,"Siemens ADVIA Centaur",1
+347,548,97,"Siemens ADVIA Centaur",1
+347,549,55,"Siemens ADVIA Centaur",1
+347,550,34,"Siemens ADVIA Centaur",1
+348,546,47.7,"Roche Total 25OHD",9
+348,547,66.4,"Roche Total 25OHD",9
+348,548,75.3,"Roche Total 25OHD",9
+348,549,58,"Roche Total 25OHD",9
+348,550,23.6,"Roche Total 25OHD",9
+349,546,51.9,"Roche Total 25OHD",4
+349,547,73.1,"Roche Total 25OHD",4
+349,548,89.5,"Roche Total 25OHD",4
+349,549,61.2,"Roche Total 25OHD",4
+349,550,28.8,"Roche Total 25OHD",4
+350,546,47.7,"Roche Total 25OHD",7
+350,547,70,"Roche Total 25OHD",7
+350,548,80,"Roche Total 25OHD",7
+350,549,59.4,"Roche Total 25OHD",7
+350,550,25.5,"Roche Total 25OHD",7
+351,546,48,"Roche Vitamin D Total II",7
+351,547,69.8,"Roche Vitamin D Total II",7
+351,548,91.3,"Roche Vitamin D Total II",7
+351,549,61,"Roche Vitamin D Total II",7
+351,550,26.8,"Roche Vitamin D Total II",7
+352,546,36.2,"Avioq VioOne 25-OH-Vit-D",35
+352,547,58.2,"Avioq VioOne 25-OH-Vit-D",35
+352,548,61.8,"Avioq VioOne 25-OH-Vit-D",35
+352,549,46,"Avioq VioOne 25-OH-Vit-D",35
+352,550,15.1,"Avioq VioOne 25-OH-Vit-D",35
+353,546,52,"Roche Total 25OHD",1
+353,547,71,"Roche Total 25OHD",1
+353,548,85,"Roche Total 25OHD",1
+353,549,60,"Roche Total 25OHD",1
+353,550,24,"Roche Total 25OHD",1
+354,546,66.7,"LC-MS-MS",10
+354,547,76.6,"LC-MS-MS",10
+354,548,109.8,"LC-MS-MS",10
+354,549,60.4,"LC-MS-MS",10
+354,550,28,"LC-MS-MS",10
+355,546,62.3,"DiaSorin Liaison Total",7
+355,547,93,"DiaSorin Liaison Total",7
+355,548,109.5,"DiaSorin Liaison Total",7
+355,549,85.3,"DiaSorin Liaison Total",7
+355,550,29.8,"DiaSorin Liaison Total",7
+356,546,52.4,"Siemens ADVIA Centaur",12
+356,547,65.1,"Siemens ADVIA Centaur",12
+356,548,72.2,"Siemens ADVIA Centaur",12
+356,549,58.5,"Siemens ADVIA Centaur",12
+356,550,31.6,"Siemens ADVIA Centaur",12
+357,546,45.8,"Roche Vitamin D Total II",3
+357,547,69.1,"Roche Vitamin D Total II",3
+357,548,82.2,"Roche Vitamin D Total II",3
+357,549,55.4,"Roche Vitamin D Total II",3
+357,550,21.4,"Roche Vitamin D Total II",3
+358,546,50,"Abbott Architect - New (5P02)",7
+358,547,70.3,"Abbott Architect - New (5P02)",7
+358,548,92.8,"Abbott Architect - New (5P02)",7
+358,549,61.3,"Abbott Architect - New (5P02)",7
+358,550,23.3,"Abbott Architect - New (5P02)",7
+359,546,47.5,"Roche Vitamin D Total II",6
+359,547,65,"Roche Vitamin D Total II",6
+359,548,77.5,"Roche Vitamin D Total II",6
+359,549,55,"Roche Vitamin D Total II",6
+359,550,22.5,"Roche Vitamin D Total II",6
+360,546,55.3,"LC-MS-MS",14
+360,547,75.3,"LC-MS-MS",14
+360,548,85.6,"LC-MS-MS",14
+360,549,65.5,"LC-MS-MS",14
+360,550,23.9,"LC-MS-MS",14
+361,546,53.9,"Abbott Architect - New (5P02)",19
+361,547,75.4,"Abbott Architect - New (5P02)",19
+361,548,99.4,"Abbott Architect - New (5P02)",19
+361,549,64.4,"Abbott Architect - New (5P02)",19
+361,550,24.3,"Abbott Architect - New (5P02)",19
+362,546,53,"Siemens ADVIA Centaur",3
+362,547,68.4,"Siemens ADVIA Centaur",3
+362,548,91.8,"Siemens ADVIA Centaur",3
+362,549,65.6,"Siemens ADVIA Centaur",3
+362,550,32,"Siemens ADVIA Centaur",3
+363,546,63.6,"Siemens ADVIA Centaur",4
+363,547,72.8,"Siemens ADVIA Centaur",4
+363,548,87.3,"Siemens ADVIA Centaur",4
+363,549,56.3,"Siemens ADVIA Centaur",4
+363,550,28.3,"Siemens ADVIA Centaur",4
+364,546,65,"Siemens ADVIA Centaur",4
+364,547,69,"Siemens ADVIA Centaur",4
+364,548,92,"Siemens ADVIA Centaur",4
+364,549,61,"Siemens ADVIA Centaur",4
+364,550,31,"Siemens ADVIA Centaur",4
+365,546,56.3,"Roche Total 25OHD",4
+365,547,75.3,"Roche Total 25OHD",4
+365,548,90.3,"Roche Total 25OHD",4
+365,549,66.5,"Roche Total 25OHD",4
+365,550,29.8,"Roche Total 25OHD",4
+366,546,48,"Abbott Architect - New (5P02)",1
+366,547,68,"Abbott Architect - New (5P02)",1
+366,548,93,"Abbott Architect - New (5P02)",1
+366,549,63,"Abbott Architect - New (5P02)",1
+366,550,20,"Abbott Architect - New (5P02)",1
+367,546,63,"IDS-iSYS",14
+367,547,70,"IDS-iSYS",14
+367,548,91,"IDS-iSYS",14
+367,549,66,"IDS-iSYS",14
+367,550,36,"IDS-iSYS",14
+368,546,48.5,"LC-MS-MS",7
+368,547,70.3,"LC-MS-MS",7
+368,548,83.8,"LC-MS-MS",7
+368,549,58.5,"LC-MS-MS",7
+368,550,23.5,"LC-MS-MS",7
+369,546,56,"Roche Total 25OHD",8
+369,547,89,"Roche Total 25OHD",8
+369,548,106,"Roche Total 25OHD",8
+369,549,65,"Roche Total 25OHD",8
+369,550,25,"Roche Total 25OHD",8
+370,546,47.8,"LC-MS-MS",4
+370,547,62.8,"LC-MS-MS",4
+370,548,83.5,"LC-MS-MS",4
+370,549,52.3,"LC-MS-MS",4
+370,550,21.8,"LC-MS-MS",4
+371,546,55.7,"DiaSorin Liaison Total",7
+371,547,72.9,"DiaSorin Liaison Total",7
+371,548,90.2,"DiaSorin Liaison Total",7
+371,549,68.6,"DiaSorin Liaison Total",7
+371,550,27.7,"DiaSorin Liaison Total",7
+372,546,53.7,"LC-MS-MS",3
+372,547,74.2,"LC-MS-MS",3
+372,548,93.7,"LC-MS-MS",3
+372,549,67.5,"LC-MS-MS",3
+372,550,24,"LC-MS-MS",3
+373,546,56,"DiaSorin Liaison Total",4
+373,547,78.5,"DiaSorin Liaison Total",4
+373,548,100.8,"DiaSorin Liaison Total",4
+373,549,71,"DiaSorin Liaison Total",4
+373,550,28.5,"DiaSorin Liaison Total",4
+374,546,52,"IDS-iSYS New",8
+374,547,67,"IDS-iSYS New",8
+374,548,85,"IDS-iSYS New",8
+374,549,56,"IDS-iSYS New",8
+374,550,25,"IDS-iSYS New",8
+375,546,47.3,"IDS-iSYS",4
+375,547,63.3,"IDS-iSYS",4
+375,548,80,"IDS-iSYS",4
+375,549,61.3,"IDS-iSYS",4
+375,550,20.8,"IDS-iSYS",4
+376,546,62.8,"DiaSorin Liaison Total",8
+376,547,86,"DiaSorin Liaison Total",8
+376,548,111.8,"DiaSorin Liaison Total",8
+376,549,75.8,"DiaSorin Liaison Total",8
+376,550,32,"DiaSorin Liaison Total",8
+377,546,57.3,"DRG ELISA",8
+377,547,63.3,"DRG ELISA",8
+377,548,87.3,"DRG ELISA",8
+377,549,52.8,"DRG ELISA",8
+377,550,13.2,"DRG ELISA",8
+378,546,73.9,"Siemens ADVIA Centaur",4
+378,547,92.7,"Siemens ADVIA Centaur",4
+378,548,114.7,"Siemens ADVIA Centaur",4
+378,549,77.8,"Siemens ADVIA Centaur",4
+378,550,42.7,"Siemens ADVIA Centaur",4
+379,546,56.2,"Abbott Alinity i",1
+379,547,77.3,"Abbott Alinity i",1
+379,548,95.7,"Abbott Alinity i",1
+379,549,65.2,"Abbott Alinity i",1
+379,550,25.7,"Abbott Alinity i",1
+380,546,57,"Siemens ADVIA Centaur",8
+380,547,77.8,"Siemens ADVIA Centaur",8
+380,548,95.3,"Siemens ADVIA Centaur",8
+380,549,72.4,"Siemens ADVIA Centaur",8
+380,550,37.2,"Siemens ADVIA Centaur",8
+381,546,57.1,"DiaSorin Liaison Total",6
+381,547,68.1,"DiaSorin Liaison Total",6
+381,548,95.1,"DiaSorin Liaison Total",6
+381,549,64.6,"DiaSorin Liaison Total",6
+381,550,29.3,"DiaSorin Liaison Total",6
+382,546,60,"DiaSorin Liaison Total",7
+382,547,81,"DiaSorin Liaison Total",7
+382,548,110,"DiaSorin Liaison Total",7
+382,549,65,"DiaSorin Liaison Total",7
+382,550,32,"DiaSorin Liaison Total",7
+383,546,51.8,"Abbott Architect - New (5P02)",14
+383,547,74.2,"Abbott Architect - New (5P02)",14
+383,548,93.8,"Abbott Architect - New (5P02)",14
+383,549,60.8,"Abbott Architect - New (5P02)",14
+383,550,24.4,"Abbott Architect - New (5P02)",14
+384,546,52.7,"Abbott Architect - New (5P02)",1
+384,547,74.9,"Abbott Architect - New (5P02)",1
+384,548,98.1,"Abbott Architect - New (5P02)",1
+384,549,66.3,"Abbott Architect - New (5P02)",1
+384,550,24.6,"Abbott Architect - New (5P02)",1
+385,546,48,"Roche Total 25OHD",3
+385,547,71,"Roche Total 25OHD",3
+385,548,88,"Roche Total 25OHD",3
+385,549,60,"Roche Total 25OHD",3
+385,550,25,"Roche Total 25OHD",3
+386,546,51.5,"Abbott Architect - New (5P02)",9
+386,547,70,"Abbott Architect - New (5P02)",9
+386,548,91.8,"Abbott Architect - New (5P02)",9
+386,549,61.3,"Abbott Architect - New (5P02)",9
+386,550,23.3,"Abbott Architect - New (5P02)",9
+387,546,59,"DIAsource Total 25OHD RIA",3
+387,547,76,"DIAsource Total 25OHD RIA",3
+387,548,109,"DIAsource Total 25OHD RIA",3
+387,549,71,"DIAsource Total 25OHD RIA",3
+387,550,28.5,"DIAsource Total 25OHD RIA",3
+388,546,55.6,"DIAsource Total 25OHD ELISA",3
+388,547,68.8,"DIAsource Total 25OHD ELISA",3
+388,548,95.5,"DIAsource Total 25OHD ELISA",3
+388,549,67.4,"DIAsource Total 25OHD ELISA",3
+388,550,32.3,"DIAsource Total 25OHD ELISA",3
+389,546,58.5,"LC-MS-MS",20
+389,547,85.8,"LC-MS-MS",20
+389,548,99.8,"LC-MS-MS",20
+389,549,56.7,"LC-MS-MS",20
+389,550,25.2,"LC-MS-MS",20
+390,546,54,"DiaSorin Liaison Total",7
+390,547,76.5,"DiaSorin Liaison Total",7
+390,548,88.3,"DiaSorin Liaison Total",7
+390,549,67,"DiaSorin Liaison Total",7
+390,550,29.3,"DiaSorin Liaison Total",7
+391,546,47,"Abbott Architect - New (5P02)",3
+391,547,67,"Abbott Architect - New (5P02)",3
+391,548,94,"Abbott Architect - New (5P02)",3
+391,549,59,"Abbott Architect - New (5P02)",3
+391,550,23,"Abbott Architect - New (5P02)",3
+392,546,55.3,"LC-MS-MS",20
+392,547,84.3,"LC-MS-MS",20
+392,548,101.7,"LC-MS-MS",20
+392,549,63.7,"LC-MS-MS",20
+392,550,20.6,"LC-MS-MS",20
+393,546,52.5,"IDS-iSYS",10
+393,547,68.1,"IDS-iSYS",10
+393,548,91.1,"IDS-iSYS",10
+393,549,66.2,"IDS-iSYS",10
+393,550,26.6,"IDS-iSYS",10
+394,546,50,"Beckman Unicel Dxi Total 25OHD",1
+394,547,75,"Beckman Unicel Dxi Total 25OHD",1
+394,548,89,"Beckman Unicel Dxi Total 25OHD",1
+394,549,55,"Beckman Unicel Dxi Total 25OHD",1
+394,550,22,"Beckman Unicel Dxi Total 25OHD",1
+395,546,54,"LC-MS-MS",2
+395,547,68,"LC-MS-MS",2
+395,548,82,"LC-MS-MS",2
+395,549,52,"LC-MS-MS",2
+395,550,22,"LC-MS-MS",2
+396,546,47.2,"Abbott Architect - New (5P02)",1
+396,547,66.9,"Abbott Architect - New (5P02)",1
+396,548,90.5,"Abbott Architect - New (5P02)",1
+396,549,56.6,"Abbott Architect - New (5P02)",1
+396,550,NA,"Abbott Architect - New (5P02)",1
+397,546,45.9,"Abbott Architect - New (5P02)",1
+397,547,64.8,"Abbott Architect - New (5P02)",1
+397,548,90.1,"Abbott Architect - New (5P02)",1
+397,549,55.1,"Abbott Architect - New (5P02)",1
+397,550,20.1,"Abbott Architect - New (5P02)",1
+398,546,52.4,"LC-MS-MS",7
+398,547,64.8,"LC-MS-MS",7
+398,548,82.8,"LC-MS-MS",7
+398,549,67,"LC-MS-MS",7
+398,550,21.3,"LC-MS-MS",7
+399,546,48.2,"Roche Total 25OHD",6
+399,547,80,"Roche Total 25OHD",6
+399,548,118.4,"Roche Total 25OHD",6
+399,549,78.3,"Roche Total 25OHD",6
+399,550,22.8,"Roche Total 25OHD",6
+400,546,51.4,"LC-MS-MS",7
+400,547,72.7,"LC-MS-MS",7
+400,548,85,"LC-MS-MS",7
+400,549,60.3,"LC-MS-MS",7
+400,550,23.5,"LC-MS-MS",7
+401,546,48,"Abbott Architect - New (5P02)",4
+401,547,69,"Abbott Architect - New (5P02)",4
+401,548,89,"Abbott Architect - New (5P02)",4
+401,549,59,"Abbott Architect - New (5P02)",4
+401,550,24,"Abbott Architect - New (5P02)",4
+402,546,50,"LC-MS-MS",10
+402,547,73,"LC-MS-MS",10
+402,548,97,"LC-MS-MS",10
+402,549,66,"LC-MS-MS",10
+402,550,27,"LC-MS-MS",10
+403,546,63,"Siemens ADVIA Centaur",7
+403,547,80,"Siemens ADVIA Centaur",7
+403,548,105,"Siemens ADVIA Centaur",7
+403,549,74,"Siemens ADVIA Centaur",7
+403,550,37,"Siemens ADVIA Centaur",7
+404,546,49.8,"Roche Total 25OHD",1
+404,547,69.1,"Roche Total 25OHD",1
+404,548,85.4,"Roche Total 25OHD",1
+404,549,55.7,"Roche Total 25OHD",1
+404,550,22.6,"Roche Total 25OHD",1
+405,546,53.4,"Roche Vitamin D Total II",12
+405,547,72,"Roche Vitamin D Total II",12
+405,548,92.5,"Roche Vitamin D Total II",12
+405,549,62.8,"Roche Vitamin D Total II",12
+405,550,28.5,"Roche Vitamin D Total II",12
+406,546,44.6,"Beckman Unicel Dxi Total 25OHD",8
+406,547,69.6,"Beckman Unicel Dxi Total 25OHD",8
+406,548,81,"Beckman Unicel Dxi Total 25OHD",8
+406,549,62.5,"Beckman Unicel Dxi Total 25OHD",8
+406,550,24.2,"Beckman Unicel Dxi Total 25OHD",8
+407,546,57.3,"DiaSorin Liaison Total",8
+407,547,71.5,"DiaSorin Liaison Total",8
+407,548,91.8,"DiaSorin Liaison Total",8
+407,549,65,"DiaSorin Liaison Total",8
+407,550,27.8,"DiaSorin Liaison Total",8
+408,546,49.8,"LC-MS-MS",7
+408,547,72.5,"LC-MS-MS",7
+408,548,86.9,"LC-MS-MS",7
+408,549,58.4,"LC-MS-MS",7
+408,550,22.5,"LC-MS-MS",7
+409,546,50.5,"IDS-iSYS New",9
+409,547,69.3,"IDS-iSYS New",9
+409,548,81.8,"IDS-iSYS New",9
+409,549,59.8,"IDS-iSYS New",9
+409,550,20.5,"IDS-iSYS New",9
+410,546,62,"IDS-iSYS New",10
+410,547,81.3,"IDS-iSYS New",10
+410,548,102.5,"IDS-iSYS New",10
+410,549,72.8,"IDS-iSYS New",10
+410,550,28.3,"IDS-iSYS New",10
+411,546,51,"Abbott Architect - New (5P02)",10
+411,547,71,"Abbott Architect - New (5P02)",10
+411,548,93,"Abbott Architect - New (5P02)",10
+411,549,61,"Abbott Architect - New (5P02)",10
+411,550,23,"Abbott Architect - New (5P02)",10
+412,546,54,"LC-MS-MS",7
+412,547,74,"LC-MS-MS",7
+412,548,96,"LC-MS-MS",7
+412,549,66,"LC-MS-MS",7
+412,550,25,"LC-MS-MS",7
+413,546,46.4,"DiaSorin Liaison Total",6
+413,547,65.4,"DiaSorin Liaison Total",6
+413,548,79.7,"DiaSorin Liaison Total",6
+413,549,62.4,"DiaSorin Liaison Total",6
+413,550,22.4,"DiaSorin Liaison Total",6
+414,546,56.3,"DiaSorin Liaison Total",7
+414,547,74.8,"DiaSorin Liaison Total",7
+414,548,91.3,"DiaSorin Liaison Total",7
+414,549,67.5,"DiaSorin Liaison Total",7
+414,550,28.5,"DiaSorin Liaison Total",7
+415,546,26.8,"DiaSorin Liaison Total",7
+415,547,64.8,"DiaSorin Liaison Total",7
+415,548,88.3,"DiaSorin Liaison Total",7
+415,549,69,"DiaSorin Liaison Total",7
+415,550,52,"DiaSorin Liaison Total",7
+416,546,52,"LC-MS-MS",6
+416,547,72,"LC-MS-MS",6
+416,548,90,"LC-MS-MS",6
+416,549,61,"LC-MS-MS",6
+416,550,24,"LC-MS-MS",6
+417,546,49.8,"Orgentec Alegria 25-OH Vitamin D",4
+417,547,85,"Orgentec Alegria 25-OH Vitamin D",4
+417,548,87,"Orgentec Alegria 25-OH Vitamin D",4
+417,549,57.3,"Orgentec Alegria 25-OH Vitamin D",4
+417,550,26.8,"Orgentec Alegria 25-OH Vitamin D",4
+418,546,52.2,"DiaSorin Liaison Total",30
+418,547,66.2,"DiaSorin Liaison Total",30
+418,548,84.3,"DiaSorin Liaison Total",30
+418,549,61.5,"DiaSorin Liaison Total",30
+418,550,27.7,"DiaSorin Liaison Total",30
+419,546,61.7,"DiaSorin Liaison Total",6
+419,547,82.6,"DiaSorin Liaison Total",6
+419,548,94.8,"DiaSorin Liaison Total",6
+419,549,71.3,"DiaSorin Liaison Total",6
+419,550,34.3,"DiaSorin Liaison Total",6
+420,546,51,"Roche Vitamin D Total II",1
+420,547,76,"Roche Vitamin D Total II",1
+420,548,88,"Roche Vitamin D Total II",1
+420,549,61,"Roche Vitamin D Total II",1
+420,550,28,"Roche Vitamin D Total II",1
+421,546,54.6,"DiaSorin Liaison Total",30
+421,547,72,"DiaSorin Liaison Total",30
+421,548,97.9,"DiaSorin Liaison Total",30
+421,549,63.4,"DiaSorin Liaison Total",30
+421,550,29,"DiaSorin Liaison Total",30
+422,546,45.8,"DiaSorin Liaison Total",30
+422,547,64.2,"DiaSorin Liaison Total",30
+422,548,81.9,"DiaSorin Liaison Total",30
+422,549,66.5,"DiaSorin Liaison Total",30
+422,550,22.5,"DiaSorin Liaison Total",30
+423,546,49,"Roche Vitamin D Total II",1
+423,547,69,"Roche Vitamin D Total II",1
+423,548,84,"Roche Vitamin D Total II",1
+423,549,58,"Roche Vitamin D Total II",1
+423,550,24,"Roche Vitamin D Total II",1
+424,546,58.8,"DiaSorin Liaison Total",4
+424,547,77.8,"DiaSorin Liaison Total",4
+424,548,101,"DiaSorin Liaison Total",4
+424,549,69.5,"DiaSorin Liaison Total",4
+424,550,30.5,"DiaSorin Liaison Total",4
+425,546,50,"Abbott Architect - New (5P02)",3
+425,547,75,"Abbott Architect - New (5P02)",3
+425,548,97,"Abbott Architect - New (5P02)",3
+425,549,63,"Abbott Architect - New (5P02)",3
+425,550,21,"Abbott Architect - New (5P02)",3
+426,546,66.8,"Siemens ADVIA Centaur",4
+426,547,82.8,"Siemens ADVIA Centaur",4
+426,548,106.7,"Siemens ADVIA Centaur",4
+426,549,74.5,"Siemens ADVIA Centaur",4
+426,550,39.1,"Siemens ADVIA Centaur",4
+427,546,51.3,"DiaSorin Liaison Total",8
+427,547,65.3,"DiaSorin Liaison Total",8
+427,548,86.5,"DiaSorin Liaison Total",8
+427,549,62.8,"DiaSorin Liaison Total",8
+427,550,23.8,"DiaSorin Liaison Total",8
+428,546,58,"DiaSorin Liaison Total",7
+428,547,76,"DiaSorin Liaison Total",7
+428,548,97,"DiaSorin Liaison Total",7
+428,549,69,"DiaSorin Liaison Total",7
+428,550,31,"DiaSorin Liaison Total",7
+429,546,60.1,"DiaSorin Liaison Total",9
+429,547,76.1,"DiaSorin Liaison Total",9
+429,548,94,"DiaSorin Liaison Total",9
+429,549,70,"DiaSorin Liaison Total",9
+429,550,30.7,"DiaSorin Liaison Total",9
+430,546,56.8,"DiaSorin Liaison Total",4
+430,547,75,"DiaSorin Liaison Total",4
+430,548,94.3,"DiaSorin Liaison Total",4
+430,549,69.3,"DiaSorin Liaison Total",4
+430,550,31.8,"DiaSorin Liaison Total",4
+431,546,55.9,"DiaSorin Liaison Total",4
+431,547,68.4,"DiaSorin Liaison Total",4
+431,548,89.4,"DiaSorin Liaison Total",4
+431,549,66.2,"DiaSorin Liaison Total",4
+431,550,26.5,"DiaSorin Liaison Total",4
+432,546,59,"DiaSorin Liaison Total",8
+432,547,73,"DiaSorin Liaison Total",8
+432,548,98,"DiaSorin Liaison Total",8
+432,549,72,"DiaSorin Liaison Total",8
+432,550,30,"DiaSorin Liaison Total",8
+433,546,53,"DiaSorin Liaison Total",15
+433,547,72,"DiaSorin Liaison Total",15
+433,548,88,"DiaSorin Liaison Total",15
+433,549,62.3,"DiaSorin Liaison Total",15
+433,550,27.3,"DiaSorin Liaison Total",15
+434,546,61.8,"DiaSorin Liaison Total",9
+434,547,79.2,"DiaSorin Liaison Total",9
+434,548,96.1,"DiaSorin Liaison Total",9
+434,549,71.9,"DiaSorin Liaison Total",9
+434,550,31.1,"DiaSorin Liaison Total",9
+435,546,59.3,"DiaSorin Liaison Total",9
+435,547,77.1,"DiaSorin Liaison Total",9
+435,548,111,"DiaSorin Liaison Total",9
+435,549,73.9,"DiaSorin Liaison Total",9
+435,550,33.6,"DiaSorin Liaison Total",9
+436,546,66.5,"DiaSorin Liaison Total",16
+436,547,86.8,"DiaSorin Liaison Total",16
+436,548,112,"DiaSorin Liaison Total",16
+436,549,77,"DiaSorin Liaison Total",16
+436,550,35.5,"DiaSorin Liaison Total",16
+437,546,64,"DiaSorin Liaison Total",4
+437,547,79,"DiaSorin Liaison Total",4
+437,548,96.5,"DiaSorin Liaison Total",4
+437,549,69.3,"DiaSorin Liaison Total",4
+437,550,29,"DiaSorin Liaison Total",4
+438,546,46,"Siemens ADVIA Centaur",4
+438,547,67,"Siemens ADVIA Centaur",4
+438,548,79,"Siemens ADVIA Centaur",4
+438,549,61,"Siemens ADVIA Centaur",4
+438,550,26,"Siemens ADVIA Centaur",4
+439,546,57.6,"LC-MS-MS",4
+439,547,67.3,"LC-MS-MS",4
+439,548,75.3,"LC-MS-MS",4
+439,549,68.1,"LC-MS-MS",4
+439,550,25.6,"LC-MS-MS",4
+440,546,55.3,"Abbott Architect - New (5P02)",6
+440,547,77.3,"Abbott Architect - New (5P02)",6
+440,548,91.3,"Abbott Architect - New (5P02)",6
+440,549,62.8,"Abbott Architect - New (5P02)",6
+440,550,25.5,"Abbott Architect - New (5P02)",6
+441,546,49,"Roche Total 25OHD",1
+441,547,78,"Roche Total 25OHD",1
+441,548,95,"Roche Total 25OHD",1
+441,549,56,"Roche Total 25OHD",1
+441,550,21,"Roche Total 25OHD",1
+442,546,59,"IDS-iSYS New",7
+442,547,77,"IDS-iSYS New",7
+442,548,87,"IDS-iSYS New",7
+442,549,63,"IDS-iSYS New",7
+442,550,26,"IDS-iSYS New",7
+443,546,43.7,"LC-MS-MS",12
+443,547,63.7,"LC-MS-MS",12
+443,548,72.9,"LC-MS-MS",12
+443,549,48,"LC-MS-MS",12
+443,550,18.9,"LC-MS-MS",12
+444,546,40.7,"Roche Vitamin D Total II",1
+444,547,59.3,"Roche Vitamin D Total II",1
+444,548,77.7,"Roche Vitamin D Total II",1
+444,549,53.9,"Roche Vitamin D Total II",1
+444,550,21.8,"Roche Vitamin D Total II",1
+445,546,47,"Roche Vitamin D Total II",1
+445,547,68,"Roche Vitamin D Total II",1
+445,548,82,"Roche Vitamin D Total II",1
+445,549,64,"Roche Vitamin D Total II",1
+445,550,23,"Roche Vitamin D Total II",1
+446,546,54,"LC-MS-MS",2
+446,547,73,"LC-MS-MS",2
+446,548,82,"LC-MS-MS",2
+446,549,64,"LC-MS-MS",2
+446,550,26,"LC-MS-MS",2
+447,546,51.8,"Abbott Architect - New (5P02)",7
+447,547,73.8,"Abbott Architect - New (5P02)",7
+447,548,95.8,"Abbott Architect - New (5P02)",7
+447,549,61.5,"Abbott Architect - New (5P02)",7
+447,550,23.8,"Abbott Architect - New (5P02)",7
+448,546,49.3,"SNIBE Maglumi 25OH Vit D",3
+448,547,64.1,"SNIBE Maglumi 25OH Vit D",3
+448,548,92.7,"SNIBE Maglumi 25OH Vit D",3
+448,549,57.9,"SNIBE Maglumi 25OH Vit D",3
+448,550,28.1,"SNIBE Maglumi 25OH Vit D",3
+449,546,39,"IDS EIA",8
+449,547,54,"IDS EIA",8
+449,548,68,"IDS EIA",8
+449,549,41,"IDS EIA",8
+449,550,14,"IDS EIA",8
+450,546,55.8,"LC-MS-MS",7
+450,547,78,"LC-MS-MS",7
+450,548,86.9,"LC-MS-MS",7
+450,549,69,"LC-MS-MS",7
+450,550,26.5,"LC-MS-MS",7
+451,546,50.4,"LC-MS-MS",30
+451,547,72.9,"LC-MS-MS",30
+451,548,91.2,"LC-MS-MS",30
+451,549,62.2,"LC-MS-MS",30
+451,550,25.2,"LC-MS-MS",30
+452,546,57,"Roche Total 25OHD",7
+452,547,85,"Roche Total 25OHD",7
+452,548,104,"Roche Total 25OHD",7
+452,549,68,"Roche Total 25OHD",7
+452,550,26,"Roche Total 25OHD",7
+453,546,45.8,"Beckman Unicel Dxi Total 25OHD",7
+453,547,74.2,"Beckman Unicel Dxi Total 25OHD",7
+453,548,89.8,"Beckman Unicel Dxi Total 25OHD",7
+453,549,53.5,"Beckman Unicel Dxi Total 25OHD",7
+453,550,20.7,"Beckman Unicel Dxi Total 25OHD",7
+454,546,45,"LC-MS-MS",5
+454,547,70,"LC-MS-MS",5
+454,548,90,"LC-MS-MS",5
+454,549,65,"LC-MS-MS",5
+454,550,22.5,"LC-MS-MS",5
+455,546,61.5,"Bio-Rad BioPlex 2200",2
+455,547,85.3,"Bio-Rad BioPlex 2200",2
+455,548,96.7,"Bio-Rad BioPlex 2200",2
+455,549,64.9,"Bio-Rad BioPlex 2200",2
+455,550,33.6,"Bio-Rad BioPlex 2200",2
+456,546,58.9,"DiaSorin Liaison Total",8
+456,547,77.3,"DiaSorin Liaison Total",8
+456,548,95.1,"DiaSorin Liaison Total",8
+456,549,68.8,"DiaSorin Liaison Total",8
+456,550,29.2,"DiaSorin Liaison Total",8
+457,546,62.2,"IDS-iSYS New",1
+457,547,81.1,"IDS-iSYS New",1
+457,548,102.1,"IDS-iSYS New",1
+457,549,73.2,"IDS-iSYS New",1
+457,550,28.9,"IDS-iSYS New",1
+458,546,45,"IDS-iSYS",8
+458,547,62.5,"IDS-iSYS",8
+458,548,80,"IDS-iSYS",8
+458,549,62.5,"IDS-iSYS",8
+458,550,22.5,"IDS-iSYS",8
+459,546,48.8,"Abbott Architect - New (5P02)",7
+459,547,66.2,"Abbott Architect - New (5P02)",7
+459,548,91.1,"Abbott Architect - New (5P02)",7
+459,549,57.5,"Abbott Architect - New (5P02)",7
+459,550,20.1,"Abbott Architect - New (5P02)",7
+460,546,51.5,"DiaSorin Liaison Total",7
+460,547,70.4,"DiaSorin Liaison Total",7
+460,548,90.9,"DiaSorin Liaison Total",7
+460,549,63.3,"DiaSorin Liaison Total",7
+460,550,26,"DiaSorin Liaison Total",7
+461,546,53,"Siemens ADVIA Centaur",1
+461,547,75,"Siemens ADVIA Centaur",1
+461,548,86,"Siemens ADVIA Centaur",1
+461,549,57,"Siemens ADVIA Centaur",1
+461,550,37,"Siemens ADVIA Centaur",1
+462,546,46.8,"DiaSorin Liaison Total",30
+462,547,63.3,"DiaSorin Liaison Total",30
+462,548,81.5,"DiaSorin Liaison Total",30
+462,549,56,"DiaSorin Liaison Total",30
+462,550,23.7,"DiaSorin Liaison Total",30
+463,546,57.5,"IDS-iSYS",8
+463,547,83,"IDS-iSYS",8
+463,548,98,"IDS-iSYS",8
+463,549,64,"IDS-iSYS",8
+463,550,24.3,"IDS-iSYS",8
+464,546,46.8,"LC-MS-MS",1
+464,547,65.4,"LC-MS-MS",1
+464,548,81.9,"LC-MS-MS",1
+464,549,55.7,"LC-MS-MS",1
+464,550,21.5,"LC-MS-MS",1
+465,546,57.2,"Roche Total 25OHD",7
+465,547,86.9,"Roche Total 25OHD",7
+465,548,102.3,"Roche Total 25OHD",7
+465,549,66.2,"Roche Total 25OHD",7
+465,550,27.1,"Roche Total 25OHD",7
+466,546,47.8,"Beckman Unicel Dxi Total 25OHD",1
+466,547,66.8,"Beckman Unicel Dxi Total 25OHD",1
+466,548,83.7,"Beckman Unicel Dxi Total 25OHD",1
+466,549,47.8,"Beckman Unicel Dxi Total 25OHD",1
+466,550,16.7,"Beckman Unicel Dxi Total 25OHD",1
+467,546,56.5,"Roche Total 25OHD",2
+467,547,77.9,"Roche Total 25OHD",2
+467,548,95.2,"Roche Total 25OHD",2
+467,549,61.6,"Roche Total 25OHD",2
+467,550,26.8,"Roche Total 25OHD",2
+468,546,56,"Abbott Architect - Old (3L52)",4
+468,547,80.3,"Abbott Architect - Old (3L52)",4
+468,548,109.5,"Abbott Architect - Old (3L52)",4
+468,549,64.8,"Abbott Architect - Old (3L52)",4
+468,550,25,"Abbott Architect - Old (3L52)",4
+469,546,68,"Siemens ADVIA Centaur",8
+469,547,93.4,"Siemens ADVIA Centaur",8
+469,548,118.8,"Siemens ADVIA Centaur",8
+469,549,82.2,"Siemens ADVIA Centaur",8
+469,550,44.1,"Siemens ADVIA Centaur",8
+470,546,50.9,"LC-MS-MS",4
+470,547,71.7,"LC-MS-MS",4
+470,548,87.3,"LC-MS-MS",4
+470,549,58.2,"LC-MS-MS",4
+470,550,21.9,"LC-MS-MS",4
+471,546,60,"DiaSorin Liaison Total",4
+471,547,78,"DiaSorin Liaison Total",4
+471,548,101,"DiaSorin Liaison Total",4
+471,549,72.5,"DiaSorin Liaison Total",4
+471,550,32,"DiaSorin Liaison Total",4
+472,546,48.3,"Beckman Unicel Dxi Total 25OHD",6
+472,547,56.9,"Beckman Unicel Dxi Total 25OHD",6
+472,548,85.8,"Beckman Unicel Dxi Total 25OHD",6
+472,549,47.2,"Beckman Unicel Dxi Total 25OHD",6
+472,550,17.1,"Beckman Unicel Dxi Total 25OHD",6
+473,546,56,"DiaSorin Liaison Total",2
+473,547,70.8,"DiaSorin Liaison Total",2
+473,548,106,"DiaSorin Liaison Total",2
+473,549,64.5,"DiaSorin Liaison Total",2
+473,550,27.4,"DiaSorin Liaison Total",2
+474,546,49.7,"DiaSorin Liaison Total",8
+474,547,70.1,"DiaSorin Liaison Total",8
+474,548,86.8,"DiaSorin Liaison Total",8
+474,549,58.5,"DiaSorin Liaison Total",8
+474,550,26.1,"DiaSorin Liaison Total",8
+475,546,53.8,"DiaSorin Liaison Total",10
+475,547,75.3,"DiaSorin Liaison Total",10
+475,548,94,"DiaSorin Liaison Total",10
+475,549,66.8,"DiaSorin Liaison Total",10
+475,550,29.5,"DiaSorin Liaison Total",10
+476,546,46.5,"DiaSorin Liaison Total",8
+476,547,65.8,"DiaSorin Liaison Total",8
+476,548,85.8,"DiaSorin Liaison Total",8
+476,549,54.8,"DiaSorin Liaison Total",8
+476,550,22.8,"DiaSorin Liaison Total",8
+477,546,56.3,"DiaSorin Liaison Total",9
+477,547,75.5,"DiaSorin Liaison Total",9
+477,548,87.8,"DiaSorin Liaison Total",9
+477,549,59.3,"DiaSorin Liaison Total",9
+477,550,26.8,"DiaSorin Liaison Total",9
+478,546,56.5,"Beckman Unicel Dxi Total 25OHD",1
+478,547,85.1,"Beckman Unicel Dxi Total 25OHD",1
+478,548,98.9,"Beckman Unicel Dxi Total 25OHD",1
+478,549,65.8,"Beckman Unicel Dxi Total 25OHD",1
+478,550,30,"Beckman Unicel Dxi Total 25OHD",1
+479,546,62,"Beckman Unicel Dxi Total 25OHD",1
+479,547,69,"Beckman Unicel Dxi Total 25OHD",1
+479,548,91,"Beckman Unicel Dxi Total 25OHD",1
+479,549,59,"Beckman Unicel Dxi Total 25OHD",1
+479,550,33,"Beckman Unicel Dxi Total 25OHD",1
+480,546,44.4,"Roche Vitamin D Total II",9
+480,547,61.6,"Roche Vitamin D Total II",9
+480,548,74.5,"Roche Vitamin D Total II",9
+480,549,55,"Roche Vitamin D Total II",9
+480,550,21,"Roche Vitamin D Total II",9
+481,546,46,"Beckman Unicel Dxi Total 25OHD",3
+481,547,70,"Beckman Unicel Dxi Total 25OHD",3
+481,548,90,"Beckman Unicel Dxi Total 25OHD",3
+481,549,46,"Beckman Unicel Dxi Total 25OHD",3
+481,550,23,"Beckman Unicel Dxi Total 25OHD",3
+482,546,54,"Roche Vitamin D Total II",1
+482,547,75,"Roche Vitamin D Total II",1
+482,548,87,"Roche Vitamin D Total II",1
+482,549,61,"Roche Vitamin D Total II",1
+482,550,29,"Roche Vitamin D Total II",1
+483,546,59,"Roche Total 25OHD",2
+483,547,87,"Roche Total 25OHD",2
+483,548,106,"Roche Total 25OHD",2
+483,549,69,"Roche Total 25OHD",2
+483,550,29,"Roche Total 25OHD",2
+484,546,54.1,"LC-MS-MS",42
+484,547,73.2,"LC-MS-MS",42
+484,548,93.4,"LC-MS-MS",42
+484,549,62.9,"LC-MS-MS",42
+484,550,25.3,"LC-MS-MS",42
+485,546,53.7,"LC-MS-MS",4
+485,547,75.1,"LC-MS-MS",4
+485,548,96.5,"LC-MS-MS",4
+485,549,66.3,"LC-MS-MS",4
+485,550,27.3,"LC-MS-MS",4
+486,546,54.3,"Roche Total 25OHD",4
+486,547,78.5,"Roche Total 25OHD",4
+486,548,93.8,"Roche Total 25OHD",4
+486,549,68.9,"Roche Total 25OHD",4
+486,550,29.4,"Roche Total 25OHD",4
+487,546,53,"Abbott Architect - New (5P02)",1
+487,547,70,"Abbott Architect - New (5P02)",1
+487,548,99,"Abbott Architect - New (5P02)",1
+487,549,61,"Abbott Architect - New (5P02)",1
+487,550,22,"Abbott Architect - New (5P02)",1
+488,546,42.4,"Beckman Unicel Dxi Total 25OHD",1
+488,547,73.3,"Beckman Unicel Dxi Total 25OHD",1
+488,548,85.1,"Beckman Unicel Dxi Total 25OHD",1
+488,549,53,"Beckman Unicel Dxi Total 25OHD",1
+488,550,23.7,"Beckman Unicel Dxi Total 25OHD",1
+489,546,49.2,"LC-MS-MS",7
+489,547,65.7,"LC-MS-MS",7
+489,548,86.7,"LC-MS-MS",7
+489,549,65.5,"LC-MS-MS",7
+489,550,22.4,"LC-MS-MS",7
+490,546,50,"Beckman Unicel Dxi Total 25OHD",6
+490,547,77.5,"Beckman Unicel Dxi Total 25OHD",6
+490,548,92.5,"Beckman Unicel Dxi Total 25OHD",6
+490,549,62.5,"Beckman Unicel Dxi Total 25OHD",6
+490,550,30,"Beckman Unicel Dxi Total 25OHD",6
+491,546,49,"IDS-iSYS",10
+491,547,58.8,"IDS-iSYS",10
+491,548,71.3,"IDS-iSYS",10
+491,549,63.7,"IDS-iSYS",10
+491,550,NA,"IDS-iSYS",10
+492,546,57,"LC-MS-MS",8
+492,547,82,"LC-MS-MS",8
+492,548,103,"LC-MS-MS",8
+492,549,72,"LC-MS-MS",8
+492,550,23,"LC-MS-MS",8
+493,546,61.8,"Roche Total 25OHD",8
+493,547,95,"Roche Total 25OHD",8
+493,548,110.7,"Roche Total 25OHD",8
+493,549,68.5,"Roche Total 25OHD",8
+493,550,29.7,"Roche Total 25OHD",8
+494,546,60,"Roche Total 25OHD",2
+494,547,91,"Roche Total 25OHD",2
+494,548,102,"Roche Total 25OHD",2
+494,549,64,"Roche Total 25OHD",2
+494,550,25,"Roche Total 25OHD",2
+495,546,53,"LC-MS-MS",1
+495,547,76,"LC-MS-MS",1
+495,548,85,"LC-MS-MS",1
+495,549,62,"LC-MS-MS",1
+495,550,23,"LC-MS-MS",1
+496,546,52.5,"DiaSorin Liaison Total",7
+496,547,70,"DiaSorin Liaison Total",7
+496,548,87.5,"DiaSorin Liaison Total",7
+496,549,70,"DiaSorin Liaison Total",7
+496,550,30,"DiaSorin Liaison Total",7
+497,546,51.2,"Abbott Architect - New (5P02)",7
+497,547,76.3,"Abbott Architect - New (5P02)",7
+497,548,98.5,"Abbott Architect - New (5P02)",7
+497,549,61.8,"Abbott Architect - New (5P02)",7
+497,550,23.3,"Abbott Architect - New (5P02)",7
+498,546,55.5,"DiaSorin Liaison Total",4
+498,547,77,"DiaSorin Liaison Total",4
+498,548,103,"DiaSorin Liaison Total",4
+498,549,81,"DiaSorin Liaison Total",4
+498,550,31.4,"DiaSorin Liaison Total",4
+499,546,50,"LC-MS-MS",10
+499,547,73,"LC-MS-MS",10
+499,548,104,"LC-MS-MS",10
+499,549,60,"LC-MS-MS",10
+499,550,22,"LC-MS-MS",10
+500,546,55.1,"LC-MS-MS",10
+500,547,75.8,"LC-MS-MS",10
+500,548,95.4,"LC-MS-MS",10
+500,549,72.7,"LC-MS-MS",10
+500,550,25.7,"LC-MS-MS",10
+501,546,41,"LC-MS-MS",6
+501,547,69,"LC-MS-MS",6
+501,548,76.7,"LC-MS-MS",6
+501,549,49.2,"LC-MS-MS",6
+501,550,22,"LC-MS-MS",6
+502,546,49,"Roche Vitamin D Total II",1
+502,547,69,"Roche Vitamin D Total II",1
+502,548,90,"Roche Vitamin D Total II",1
+502,549,64,"Roche Vitamin D Total II",1
+502,550,28,"Roche Vitamin D Total II",1
+503,546,40,"Beckman Unicel Dxi Total 25OHD",1
+503,547,78,"Beckman Unicel Dxi Total 25OHD",1
+503,548,97,"Beckman Unicel Dxi Total 25OHD",1
+503,549,56,"Beckman Unicel Dxi Total 25OHD",1
+503,550,28,"Beckman Unicel Dxi Total 25OHD",1
+504,546,53,"Siemens ADVIA Centaur",1
+504,547,69.1,"Siemens ADVIA Centaur",1
+504,548,93.7,"Siemens ADVIA Centaur",1
+504,549,63.8,"Siemens ADVIA Centaur",1
+504,550,32.9,"Siemens ADVIA Centaur",1
+505,546,50.8,"Roche Total 25OHD",7
+505,547,71.5,"Roche Total 25OHD",7
+505,548,93.7,"Roche Total 25OHD",7
+505,549,63.6,"Roche Total 25OHD",7
+505,550,27.3,"Roche Total 25OHD",7
+506,546,63,"LC-MS-MS",6
+506,547,70,"LC-MS-MS",6
+506,548,75,"LC-MS-MS",6
+506,549,59,"LC-MS-MS",6
+506,550,27,"LC-MS-MS",6
+507,546,47.6,"Abbott Architect - Old (3L52)",12
+507,547,70.5,"Abbott Architect - Old (3L52)",12
+507,548,90.1,"Abbott Architect - Old (3L52)",12
+507,549,59.7,"Abbott Architect - Old (3L52)",12
+507,550,22.4,"Abbott Architect - Old (3L52)",12
+508,546,61,"Siemens ADVIA Centaur",8
+508,547,79,"Siemens ADVIA Centaur",8
+508,548,89,"Siemens ADVIA Centaur",8
+508,549,65,"Siemens ADVIA Centaur",8
+508,550,35,"Siemens ADVIA Centaur",8
+509,546,63.3,"IDS-iSYS",6
+509,547,88.5,"IDS-iSYS",6
+509,548,100,"IDS-iSYS",6
+509,549,68.5,"IDS-iSYS",6
+509,550,31.5,"IDS-iSYS",6
+510,546,20.3,"Roche Total 25OHD",10
+510,547,28,"Roche Total 25OHD",10
+510,548,35.6,"Roche Total 25OHD",10
+510,549,24.2,"Roche Total 25OHD",10
+510,550,10.3,"Roche Total 25OHD",10
+511,546,43.8,"LC-MS-MS",7
+511,547,65.5,"LC-MS-MS",7
+511,548,78.3,"LC-MS-MS",7
+511,549,53.8,"LC-MS-MS",7
+511,550,23.5,"LC-MS-MS",7
+512,546,55,"DiaSorin Liaison Total",3
+512,547,71,"DiaSorin Liaison Total",3
+512,548,88,"DiaSorin Liaison Total",3
+512,549,63,"DiaSorin Liaison Total",3
+512,550,26,"DiaSorin Liaison Total",3
+513,546,56,"Roche Total 25OHD",20
+513,547,87.3,"Roche Total 25OHD",20
+513,548,100.8,"Roche Total 25OHD",20
+513,549,68.8,"Roche Total 25OHD",20
+513,550,21,"Roche Total 25OHD",20
+514,546,55,"Roche Total 25OHD",8
+514,547,82.3,"Roche Total 25OHD",8
+514,548,98,"Roche Total 25OHD",8
+514,549,61.3,"Roche Total 25OHD",8
+514,550,19.5,"Roche Total 25OHD",8
+515,546,56.6,"Roche Total 25OHD",14
+515,547,85.1,"Roche Total 25OHD",14
+515,548,97.8,"Roche Total 25OHD",14
+515,549,62.9,"Roche Total 25OHD",14
+515,550,27.7,"Roche Total 25OHD",14
+516,546,53.8,"Roche Total 25OHD",3
+516,547,85,"Roche Total 25OHD",3
+516,548,94.8,"Roche Total 25OHD",3
+516,549,57,"Roche Total 25OHD",3
+516,550,19.5,"Roche Total 25OHD",3
+517,546,38.8,"Abbott Architect - New (5P02)",8
+517,547,42.8,"Abbott Architect - New (5P02)",8
+517,548,59.5,"Abbott Architect - New (5P02)",8
+517,549,37.3,"Abbott Architect - New (5P02)",8
+517,550,15.3,"Abbott Architect - New (5P02)",8
+518,546,57.8,"Roche Total 25OHD",14
+518,547,93.2,"Roche Total 25OHD",14
+518,548,104.4,"Roche Total 25OHD",14
+518,549,69.8,"Roche Total 25OHD",14
+518,550,28.6,"Roche Total 25OHD",14
+519,546,54,"Roche Vitamin D Total II",4
+519,547,71,"Roche Vitamin D Total II",4
+519,548,83,"Roche Vitamin D Total II",4
+519,549,61,"Roche Vitamin D Total II",4
+519,550,26,"Roche Vitamin D Total II",4
+520,546,41.5,"Beckman Unicel Dxi Total 25OHD",4
+520,547,66.9,"Beckman Unicel Dxi Total 25OHD",4
+520,548,79.9,"Beckman Unicel Dxi Total 25OHD",4
+520,549,52.6,"Beckman Unicel Dxi Total 25OHD",4
+520,550,25.4,"Beckman Unicel Dxi Total 25OHD",4
+521,546,51.5,"LC-MS-MS",7
+521,547,73.5,"LC-MS-MS",7
+521,548,89.8,"LC-MS-MS",7
+521,549,61,"LC-MS-MS",7
+521,550,24.5,"LC-MS-MS",7
+522,546,57,"Roche Vitamin D Total II",2
+522,547,77,"Roche Vitamin D Total II",2
+522,548,91,"Roche Vitamin D Total II",2
+522,549,69,"Roche Vitamin D Total II",2
+522,550,31,"Roche Vitamin D Total II",2
+523,546,53.8,"DiaSorin Liaison Total",4
+523,547,73.8,"DiaSorin Liaison Total",4
+523,548,91.5,"DiaSorin Liaison Total",4
+523,549,68.8,"DiaSorin Liaison Total",4
+523,550,28.5,"DiaSorin Liaison Total",4
+524,546,42.5,"DiaSorin Liaison Total",4
+524,547,57.5,"DiaSorin Liaison Total",4
+524,548,75,"DiaSorin Liaison Total",4
+524,549,52.5,"DiaSorin Liaison Total",4
+524,550,20,"DiaSorin Liaison Total",4
+525,546,54,"DiaSorin Liaison Total",3
+525,547,72.8,"DiaSorin Liaison Total",3
+525,548,84.3,"DiaSorin Liaison Total",3
+525,549,65.3,"DiaSorin Liaison Total",3
+525,550,28.5,"DiaSorin Liaison Total",3
+526,546,48.3,"DiaSorin Liaison Total",4
+526,547,62.5,"DiaSorin Liaison Total",4
+526,548,80,"DiaSorin Liaison Total",4
+526,549,61.5,"DiaSorin Liaison Total",4
+526,550,27,"DiaSorin Liaison Total",4
+527,546,53.3,"DiaSorin Liaison Total",5
+527,547,76.5,"DiaSorin Liaison Total",5
+527,548,86.3,"DiaSorin Liaison Total",5
+527,549,71,"DiaSorin Liaison Total",5
+527,550,28.3,"DiaSorin Liaison Total",5
+528,546,47.5,"Abbott Architect - New (5P02)",8
+528,547,68.5,"Abbott Architect - New (5P02)",8
+528,548,89.8,"Abbott Architect - New (5P02)",8
+528,549,59.3,"Abbott Architect - New (5P02)",8
+528,550,22.8,"Abbott Architect - New (5P02)",8
+529,546,60.9,"Diazyme 25OH VitD Chemistry Analyzers",1
+529,547,76.4,"Diazyme 25OH VitD Chemistry Analyzers",1
+529,548,89.1,"Diazyme 25OH VitD Chemistry Analyzers",1
+529,549,63.3,"Diazyme 25OH VitD Chemistry Analyzers",1
+529,550,27.6,"Diazyme 25OH VitD Chemistry Analyzers",1
+530,546,42.5,"Euroimmun ELISA",4
+530,547,75.7,"Euroimmun ELISA",4
+530,548,72,"Euroimmun ELISA",4
+530,549,44.7,"Euroimmun ELISA",4
+530,550,20.2,"Euroimmun ELISA",4
+531,546,48.3,"IDS-iSYS",7
+531,547,61.2,"IDS-iSYS",7
+531,548,78.4,"IDS-iSYS",7
+531,549,60,"IDS-iSYS",7
+531,550,21.3,"IDS-iSYS",7
+532,546,62.8,"IDS-iSYS New",8
+532,547,85.8,"IDS-iSYS New",8
+532,548,111.4,"IDS-iSYS New",8
+532,549,80.8,"IDS-iSYS New",8
+532,550,23.9,"IDS-iSYS New",8
+533,546,54,"LC-MS-MS",6
+533,547,82,"LC-MS-MS",6
+533,548,106,"LC-MS-MS",6
+533,549,70,"LC-MS-MS",6
+533,550,26,"LC-MS-MS",6
+534,546,53.2,"Roche Total 25OHD",9
+534,547,77.8,"Roche Total 25OHD",9
+534,548,90.5,"Roche Total 25OHD",9
+534,549,57.8,"Roche Total 25OHD",9
+534,550,23.8,"Roche Total 25OHD",9
+535,546,51.5,"Abbott Architect - New (5P02)",7
+535,547,74.1,"Abbott Architect - New (5P02)",7
+535,548,96.6,"Abbott Architect - New (5P02)",7
+535,549,62.3,"Abbott Architect - New (5P02)",7
+535,550,24.2,"Abbott Architect - New (5P02)",7
+536,546,52,"Roche Vitamin D Total II",2
+536,547,76,"Roche Vitamin D Total II",2
+536,548,86,"Roche Vitamin D Total II",2
+536,549,66,"Roche Vitamin D Total II",2
+536,550,27,"Roche Vitamin D Total II",2
+537,546,54,"bioMerieux 25OH Vitamin D Total",1
+537,547,71.8,"bioMerieux 25OH Vitamin D Total",1
+537,548,91,"bioMerieux 25OH Vitamin D Total",1
+537,549,64,"bioMerieux 25OH Vitamin D Total",1
+537,550,23.3,"bioMerieux 25OH Vitamin D Total",1
+538,546,52.6,"HPLC",10
+538,547,66.9,"HPLC",10
+538,548,75,"HPLC",10
+538,549,145.7,"HPLC",10
+538,550,32.4,"HPLC",10
+539,546,39.7,"LC-MS-MS",7
+539,547,58.8,"LC-MS-MS",7
+539,548,75.9,"LC-MS-MS",7
+539,549,51.8,"LC-MS-MS",7
+539,550,21.2,"LC-MS-MS",7
+540,546,49.5,"Abbott Architect - New (5P02)",1
+540,547,74.4,"Abbott Architect - New (5P02)",1
+540,548,97.5,"Abbott Architect - New (5P02)",1
+540,549,60.4,"Abbott Architect - New (5P02)",1
+540,550,21.9,"Abbott Architect - New (5P02)",1
+541,546,57,"Roche Vitamin D Total II",2
+541,547,77,"Roche Vitamin D Total II",2
+541,548,92,"Roche Vitamin D Total II",2
+541,549,65,"Roche Vitamin D Total II",2
+541,550,27,"Roche Vitamin D Total II",2
+542,546,42.7,"Fujirebio Lumipulse G 25OH Vit D",4
+542,547,62.2,"Fujirebio Lumipulse G 25OH Vit D",4
+542,548,74.6,"Fujirebio Lumipulse G 25OH Vit D",4
+542,549,51.6,"Fujirebio Lumipulse G 25OH Vit D",4
+542,550,15.4,"Fujirebio Lumipulse G 25OH Vit D",4
+543,546,48.8,"Roche Vitamin D Total II",4
+543,547,70.3,"Roche Vitamin D Total II",4
+543,548,82.3,"Roche Vitamin D Total II",4
+543,549,56.3,"Roche Vitamin D Total II",4
+543,550,23.8,"Roche Vitamin D Total II",4
+544,546,50.3,"IDS-iSYS New",13
+544,547,69.3,"IDS-iSYS New",13
+544,548,87.7,"IDS-iSYS New",13
+544,549,64.5,"IDS-iSYS New",13
+544,550,25.6,"IDS-iSYS New",13
+545,546,52.3,"Roche Total 25OHD",15
+545,547,78.3,"Roche Total 25OHD",15
+545,548,97.6,"Roche Total 25OHD",15
+545,549,62.5,"Roche Total 25OHD",15
+545,550,26,"Roche Total 25OHD",15
+546,546,55.5,"LC-MS-MS",8
+546,547,69.3,"LC-MS-MS",8
+546,548,88.5,"LC-MS-MS",8
+546,549,62,"LC-MS-MS",8
+546,550,26,"LC-MS-MS",8
+547,546,50,"LC-MS-MS",2
+547,547,74,"LC-MS-MS",2
+547,548,87,"LC-MS-MS",2
+547,549,62,"LC-MS-MS",2
+547,550,25,"LC-MS-MS",2
+548,546,53,"Siemens ADVIA Centaur",9
+548,547,80,"Siemens ADVIA Centaur",9
+548,548,97,"Siemens ADVIA Centaur",9
+548,549,67.3,"Siemens ADVIA Centaur",9
+548,550,34.8,"Siemens ADVIA Centaur",9
+549,546,68.1,"Siemens ADVIA Centaur",9
+549,547,87.2,"Siemens ADVIA Centaur",9
+549,548,104.1,"Siemens ADVIA Centaur",9
+549,549,79.2,"Siemens ADVIA Centaur",9
+549,550,39.1,"Siemens ADVIA Centaur",9
+550,546,48,"DiaSorin Liaison Total",1
+550,547,62,"DiaSorin Liaison Total",1
+550,548,85,"DiaSorin Liaison Total",1
+550,549,59,"DiaSorin Liaison Total",1
+550,550,24,"DiaSorin Liaison Total",1
+551,546,49,"Roche Vitamin D Total II",1
+551,547,72,"Roche Vitamin D Total II",1
+551,548,89,"Roche Vitamin D Total II",1
+551,549,61,"Roche Vitamin D Total II",1
+551,550,23,"Roche Vitamin D Total II",1
+552,546,41,"IDS-iSYS New",1
+552,547,82,"IDS-iSYS New",1
+552,548,99,"IDS-iSYS New",1
+552,549,64,"IDS-iSYS New",1
+552,550,28,"IDS-iSYS New",1
+553,546,55.5,"Roche Total 25OHD",4
+553,547,83.3,"Roche Total 25OHD",4
+553,548,103,"Roche Total 25OHD",4
+553,549,62,"Roche Total 25OHD",4
+553,550,25.5,"Roche Total 25OHD",4
+554,546,56,"DiaSorin Liaison Total",4
+554,547,74,"DiaSorin Liaison Total",4
+554,548,95.8,"DiaSorin Liaison Total",4
+554,549,68.5,"DiaSorin Liaison Total",4
+554,550,27.5,"DiaSorin Liaison Total",4
+555,546,57.3,"DiaSorin Liaison Total",12
+555,547,76,"DiaSorin Liaison Total",12
+555,548,92.3,"DiaSorin Liaison Total",12
+555,549,66,"DiaSorin Liaison Total",12
+555,550,28.8,"DiaSorin Liaison Total",12
+556,546,49.2,"DiaSorin Liaison Total",6
+556,547,61,"DiaSorin Liaison Total",6
+556,548,97.1,"DiaSorin Liaison Total",6
+556,549,68.3,"DiaSorin Liaison Total",6
+556,550,30.1,"DiaSorin Liaison Total",6
+557,546,50.4,"Abbott Architect - New (5P02)",1
+557,547,70.6,"Abbott Architect - New (5P02)",1
+557,548,93.6,"Abbott Architect - New (5P02)",1
+557,549,60.1,"Abbott Architect - New (5P02)",1
+557,550,19.8,"Abbott Architect - New (5P02)",1
+558,546,47.9,"LC-MS-MS",4
+558,547,75.1,"LC-MS-MS",4
+558,548,85.8,"LC-MS-MS",4
+558,549,57.6,"LC-MS-MS",4
+558,550,24.3,"LC-MS-MS",4
+559,546,45,"Beckman Unicel Dxi Total 25OHD",4
+559,547,77.5,"Beckman Unicel Dxi Total 25OHD",4
+559,548,85,"Beckman Unicel Dxi Total 25OHD",4
+559,549,52.5,"Beckman Unicel Dxi Total 25OHD",4
+559,550,27.5,"Beckman Unicel Dxi Total 25OHD",4
+560,546,46,"Roche Vitamin D Total II",7
+560,547,65.3,"Roche Vitamin D Total II",7
+560,548,79.6,"Roche Vitamin D Total II",7
+560,549,57.6,"Roche Vitamin D Total II",7
+560,550,24.1,"Roche Vitamin D Total II",7
+561,546,72.5,"DiaSorin Liaison Total",10
+561,547,92.4,"DiaSorin Liaison Total",10
+561,548,111,"DiaSorin Liaison Total",10
+561,549,79.9,"DiaSorin Liaison Total",10
+561,550,36,"DiaSorin Liaison Total",10
+562,546,48,"DiaSorin Liaison Total",6
+562,547,66,"DiaSorin Liaison Total",6
+562,548,87,"DiaSorin Liaison Total",6
+562,549,63,"DiaSorin Liaison Total",6
+562,550,25,"DiaSorin Liaison Total",6
+563,546,57,"LC-MS-MS",8
+563,547,80.7,"LC-MS-MS",8
+563,548,99,"LC-MS-MS",8
+563,549,70.4,"LC-MS-MS",8
+563,550,25.9,"LC-MS-MS",8
+564,546,38.3,"Euroimmun ELISA",7
+564,547,75.3,"Euroimmun ELISA",7
+564,548,85.8,"Euroimmun ELISA",7
+564,549,80.8,"Euroimmun ELISA",7
+564,550,21.5,"Euroimmun ELISA",7
+565,546,48.8,"Siemens ADVIA Centaur",8
+565,547,60.3,"Siemens ADVIA Centaur",8
+565,548,76.3,"Siemens ADVIA Centaur",8
+565,549,59.7,"Siemens ADVIA Centaur",8
+565,550,24.9,"Siemens ADVIA Centaur",8
+566,546,70.4,"Siemens ADVIA Centaur",7
+566,547,82.8,"Siemens ADVIA Centaur",7
+566,548,102.8,"Siemens ADVIA Centaur",7
+566,549,79.6,"Siemens ADVIA Centaur",7
+566,550,42.7,"Siemens ADVIA Centaur",7
+567,546,47,"Roche Vitamin D Total II",2
+567,547,70,"Roche Vitamin D Total II",2
+567,548,82,"Roche Vitamin D Total II",2
+567,549,64,"Roche Vitamin D Total II",2
+567,550,26,"Roche Vitamin D Total II",2
+568,546,48,"Roche Vitamin D Total II",2
+568,547,72,"Roche Vitamin D Total II",2
+568,548,85,"Roche Vitamin D Total II",2
+568,549,62,"Roche Vitamin D Total II",2
+568,550,25,"Roche Vitamin D Total II",2
+569,546,53.9,"IDS-iSYS",10
+569,547,67.5,"IDS-iSYS",10
+569,548,89.2,"IDS-iSYS",10
+569,549,66.2,"IDS-iSYS",10
+569,550,26.7,"IDS-iSYS",10
+570,546,21.1,"Unknown",9
+570,547,26,"Unknown",9
+570,548,26.5,"Unknown",9
+570,549,22.1,"Unknown",9
+570,550,7.4,"Unknown",9
+571,546,60,"Siemens ADVIA Centaur",1
+571,547,80,"Siemens ADVIA Centaur",1
+571,548,93,"Siemens ADVIA Centaur",1
+571,549,71,"Siemens ADVIA Centaur",1
+571,550,31,"Siemens ADVIA Centaur",1
+572,546,41.2,"Roche Total 25OHD",7
+572,547,74.3,"Roche Total 25OHD",7
+572,548,86.6,"Roche Total 25OHD",7
+572,549,66.4,"Roche Total 25OHD",7
+572,550,31.7,"Roche Total 25OHD",7
+573,546,53.2,"Roche Total 25OHD",10
+573,547,82,"Roche Total 25OHD",10
+573,548,96.1,"Roche Total 25OHD",10
+573,549,58.2,"Roche Total 25OHD",10
+573,550,23.1,"Roche Total 25OHD",10
+574,546,56.1,"LC-MS-MS",7
+574,547,83.2,"LC-MS-MS",7
+574,548,103.4,"LC-MS-MS",7
+574,549,72.2,"LC-MS-MS",7
+574,550,28.1,"LC-MS-MS",7
+575,546,55.1,"LC-MS-MS",13
+575,547,77.5,"LC-MS-MS",13
+575,548,96.1,"LC-MS-MS",13
+575,549,68.5,"LC-MS-MS",13
+575,550,26.2,"LC-MS-MS",13
+576,546,67.8,"LC-MS-MS",1
+576,547,72.3,"LC-MS-MS",1
+576,548,89.5,"LC-MS-MS",1
+576,549,63.2,"LC-MS-MS",1
+576,550,26.1,"LC-MS-MS",1
+577,546,52.8,"Abbott Architect - New (5P02)",4
+577,547,75.8,"Abbott Architect - New (5P02)",4
+577,548,97.8,"Abbott Architect - New (5P02)",4
+577,549,62.5,"Abbott Architect - New (5P02)",4
+577,550,22.5,"Abbott Architect - New (5P02)",4
+578,546,48,"Abbott Architect - New (5P02)",3
+578,547,75,"Abbott Architect - New (5P02)",3
+578,548,98,"Abbott Architect - New (5P02)",3
+578,549,65,"Abbott Architect - New (5P02)",3
+578,550,24,"Abbott Architect - New (5P02)",3
+579,546,49.6,"Roche Vitamin D Total II",11
+579,547,76.4,"Roche Vitamin D Total II",11
+579,548,88.8,"Roche Vitamin D Total II",11
+579,549,60.7,"Roche Vitamin D Total II",11
+579,550,24.5,"Roche Vitamin D Total II",11
+580,546,53.3,"Siemens ADVIA Centaur",1
+580,547,66.2,"Siemens ADVIA Centaur",1
+580,548,80.5,"Siemens ADVIA Centaur",1
+580,549,58,"Siemens ADVIA Centaur",1
+580,550,25.4,"Siemens ADVIA Centaur",1
+581,546,49.7,"Siemens ADVIA Centaur",1
+581,547,69.1,"Siemens ADVIA Centaur",1
+581,548,85.1,"Siemens ADVIA Centaur",1
+581,549,60.8,"Siemens ADVIA Centaur",1
+581,550,26.6,"Siemens ADVIA Centaur",1
+582,546,47.3,"Abbott Architect - Old (3L52)",7
+582,547,67.5,"Abbott Architect - Old (3L52)",7
+582,548,88,"Abbott Architect - Old (3L52)",7
+582,549,57.3,"Abbott Architect - Old (3L52)",7
+582,550,20.5,"Abbott Architect - Old (3L52)",7
+583,546,53,"Roche Vitamin D Total II",14
+583,547,69.5,"Roche Vitamin D Total II",14
+583,548,81.6,"Roche Vitamin D Total II",14
+583,549,59.5,"Roche Vitamin D Total II",14
+583,550,28.5,"Roche Vitamin D Total II",14
+584,546,47.3,"HPLC",7
+584,547,59.5,"HPLC",7
+584,548,79.8,"HPLC",7
+584,549,46.5,"HPLC",7
+584,550,21.5,"HPLC",7
+585,546,56.1,"Roche Total 25OHD",10
+585,547,80.4,"Roche Total 25OHD",10
+585,548,103.8,"Roche Total 25OHD",10
+585,549,60.3,"Roche Total 25OHD",10
+585,550,26.1,"Roche Total 25OHD",10
+586,546,47.2,"Abbott Architect - New (5P02)",1
+586,547,70.9,"Abbott Architect - New (5P02)",1
+586,548,95.4,"Abbott Architect - New (5P02)",1
+586,549,60.8,"Abbott Architect - New (5P02)",1
+586,550,22.3,"Abbott Architect - New (5P02)",1
+587,546,45,"Beckman Unicel Dxi Total 25OHD",1
+587,547,57,"Beckman Unicel Dxi Total 25OHD",1
+587,548,70,"Beckman Unicel Dxi Total 25OHD",1
+587,549,47,"Beckman Unicel Dxi Total 25OHD",1
+587,550,24,"Beckman Unicel Dxi Total 25OHD",1
+588,546,55.9,"LC-MS-MS",7
+588,547,80.5,"LC-MS-MS",7
+588,548,90.9,"LC-MS-MS",7
+588,549,68.8,"LC-MS-MS",7
+588,550,23.6,"LC-MS-MS",7
+589,546,54.9,"Siemens ADVIA Centaur",1
+589,547,74,"Siemens ADVIA Centaur",1
+589,548,95.4,"Siemens ADVIA Centaur",1
+589,549,68.8,"Siemens ADVIA Centaur",1
+589,550,33.6,"Siemens ADVIA Centaur",1
+590,546,36,"Beckman Unicel Dxi Total 25OHD",1
+590,547,68,"Beckman Unicel Dxi Total 25OHD",1
+590,548,76,"Beckman Unicel Dxi Total 25OHD",1
+590,549,46,"Beckman Unicel Dxi Total 25OHD",1
+590,550,20,"Beckman Unicel Dxi Total 25OHD",1
+591,546,45,"Beckman Unicel Dxi Total 25OHD",1
+591,547,72,"Beckman Unicel Dxi Total 25OHD",1
+591,548,77,"Beckman Unicel Dxi Total 25OHD",1
+591,549,49,"Beckman Unicel Dxi Total 25OHD",1
+591,550,30,"Beckman Unicel Dxi Total 25OHD",1
+592,546,51.8,"Roche Total 25OHD",8
+592,547,79,"Roche Total 25OHD",8
+592,548,94.7,"Roche Total 25OHD",8
+592,549,56.6,"Roche Total 25OHD",8
+592,550,18.6,"Roche Total 25OHD",8
+593,546,64.8,"Roche Total 25OHD",11
+593,547,98,"Roche Total 25OHD",11
+593,548,110.4,"Roche Total 25OHD",11
+593,549,70,"Roche Total 25OHD",11
+593,550,31.8,"Roche Total 25OHD",11
+594,546,51.8,"Beckman Unicel Dxi Total 25OHD",10
+594,547,70.6,"Beckman Unicel Dxi Total 25OHD",10
+594,548,151.2,"Beckman Unicel Dxi Total 25OHD",10
+594,549,94.1,"Beckman Unicel Dxi Total 25OHD",10
+594,550,31.3,"Beckman Unicel Dxi Total 25OHD",10
+595,546,46.5,"Abbott Architect - New (5P02)",9
+595,547,65.8,"Abbott Architect - New (5P02)",9
+595,548,87.3,"Abbott Architect - New (5P02)",9
+595,549,22,"Abbott Architect - New (5P02)",9
+595,550,58.3,"Abbott Architect - New (5P02)",9
+596,546,58.4,"DiaSorin Liaison Total",7
+596,547,79.5,"DiaSorin Liaison Total",7
+596,548,96.5,"DiaSorin Liaison Total",7
+596,549,70.7,"DiaSorin Liaison Total",7
+596,550,29.2,"DiaSorin Liaison Total",7
+597,546,64.5,"DiaSorin Liaison Total",7
+597,547,80.3,"DiaSorin Liaison Total",7
+597,548,100,"DiaSorin Liaison Total",7
+597,549,73.4,"DiaSorin Liaison Total",7
+597,550,31.2,"DiaSorin Liaison Total",7
+598,546,55.6,"DiaSorin Liaison Total",7
+598,547,73.9,"DiaSorin Liaison Total",7
+598,548,91.1,"DiaSorin Liaison Total",7
+598,549,68,"DiaSorin Liaison Total",7
+598,550,32,"DiaSorin Liaison Total",7
+599,546,39.1,"Beckman Unicel Dxi Total 25OHD",1
+599,547,72.8,"Beckman Unicel Dxi Total 25OHD",1
+599,548,81.2,"Beckman Unicel Dxi Total 25OHD",1
+599,549,49.3,"Beckman Unicel Dxi Total 25OHD",1
+599,550,22.7,"Beckman Unicel Dxi Total 25OHD",1
+600,546,57.3,"DiaSorin Liaison Total",4
+600,547,74.5,"DiaSorin Liaison Total",4
+600,548,93,"DiaSorin Liaison Total",4
+600,549,67,"DiaSorin Liaison Total",4
+600,550,28.3,"DiaSorin Liaison Total",4
+601,546,44.5,"Abbott Architect - New (5P02)",9
+601,547,67.3,"Abbott Architect - New (5P02)",9
+601,548,89.8,"Abbott Architect - New (5P02)",9
+601,549,58,"Abbott Architect - New (5P02)",9
+601,550,19.5,"Abbott Architect - New (5P02)",9
+602,546,52,"Abbott Architect - New (5P02)",1
+602,547,72,"Abbott Architect - New (5P02)",1
+602,548,93,"Abbott Architect - New (5P02)",1
+602,549,61,"Abbott Architect - New (5P02)",1
+602,550,27,"Abbott Architect - New (5P02)",1
+603,546,49.4,"LC-MS-MS",1
+603,547,66.3,"LC-MS-MS",1
+603,548,82,"LC-MS-MS",1
+603,549,58.9,"LC-MS-MS",1
+603,550,24.6,"LC-MS-MS",1
+604,546,55,"Roche Vitamin D Total II",1
+604,547,80,"Roche Vitamin D Total II",1
+604,548,97,"Roche Vitamin D Total II",1
+604,549,67,"Roche Vitamin D Total II",1
+604,550,30,"Roche Vitamin D Total II",1
+605,546,48.4,"Abbott Architect - New (5P02)",1
+605,547,74.3,"Abbott Architect - New (5P02)",1
+605,548,97,"Abbott Architect - New (5P02)",1
+605,549,62.4,"Abbott Architect - New (5P02)",1
+605,550,19.6,"Abbott Architect - New (5P02)",1
+606,546,74,"Siemens ADVIA Centaur",4
+606,547,86,"Siemens ADVIA Centaur",4
+606,548,115,"Siemens ADVIA Centaur",4
+606,549,77,"Siemens ADVIA Centaur",4
+606,550,39,"Siemens ADVIA Centaur",4
+607,546,55.7,"Unknown",15
+607,547,88.2,"Unknown",15
+607,548,103,"Unknown",15
+607,549,69.5,"Unknown",15
+607,550,29.1,"Unknown",15
+608,546,54,"Roche Vitamin D Total II",1
+608,547,73,"Roche Vitamin D Total II",1
+608,548,88,"Roche Vitamin D Total II",1
+608,549,64,"Roche Vitamin D Total II",1
+608,550,31,"Roche Vitamin D Total II",1
+609,546,57.7,"Roche Total 25OHD",7
+609,547,82.6,"Roche Total 25OHD",7
+609,548,96.3,"Roche Total 25OHD",7
+609,549,62.3,"Roche Total 25OHD",7
+609,550,27.7,"Roche Total 25OHD",7
+610,546,52,"Beckman Access2 Total 25OHD",2
+610,547,73.9,"Beckman Access2 Total 25OHD",2
+610,548,83.5,"Beckman Access2 Total 25OHD",2
+610,549,61.3,"Beckman Access2 Total 25OHD",2
+610,550,31.2,"Beckman Access2 Total 25OHD",2
+611,546,18.8,"Abbott Architect - New (5P02)",4
+611,547,27.2,"Abbott Architect - New (5P02)",4
+611,548,35.5,"Abbott Architect - New (5P02)",4
+611,549,23.8,"Abbott Architect - New (5P02)",4
+611,550,8.6,"Abbott Architect - New (5P02)",4
+612,546,48.4,"Roche Vitamin D Total II",3
+612,547,71.1,"Roche Vitamin D Total II",3
+612,548,86.1,"Roche Vitamin D Total II",3
+612,549,61.7,"Roche Vitamin D Total II",3
+612,550,28.4,"Roche Vitamin D Total II",3
+613,546,51.3,"Affimedix Rapi-D 25OHDTest",4
+613,547,72.5,"Affimedix Rapi-D 25OHDTest",4
+613,548,91.3,"Affimedix Rapi-D 25OHDTest",4
+613,549,53.4,"Affimedix Rapi-D 25OHDTest",4
+613,550,23.1,"Affimedix Rapi-D 25OHDTest",4
+614,546,49,"LC-MS-MS",7
+614,547,66,"LC-MS-MS",7
+614,548,84,"LC-MS-MS",7
+614,549,59,"LC-MS-MS",7
+614,550,25,"LC-MS-MS",7
+615,546,55,"Unknown",1
+615,547,69,"Unknown",1
+615,548,77,"Unknown",1
+615,549,54,"Unknown",1
+615,550,28,"Unknown",1
+616,546,44,"Unknown",1
+616,547,69,"Unknown",1
+616,548,80,"Unknown",1
+616,549,54,"Unknown",1
+616,550,28,"Unknown",1
+617,546,50.5,"Affimedix Micro-D Sandwich ELISA",4
+617,547,73.1,"Affimedix Micro-D Sandwich ELISA",4
+617,548,92.1,"Affimedix Micro-D Sandwich ELISA",4
+617,549,59.9,"Affimedix Micro-D Sandwich ELISA",4
+617,550,23.6,"Affimedix Micro-D Sandwich ELISA",4
+618,546,52.9,"LumiQuick Rapid Vitamin D",7
+618,547,73.9,"LumiQuick Rapid Vitamin D",7
+618,548,98.4,"LumiQuick Rapid Vitamin D",7
+618,549,53.4,"LumiQuick Rapid Vitamin D",7
+618,550,23.9,"LumiQuick Rapid Vitamin D",7
+619,546,52.1,"DiaSorin Liaison Total",9
+619,547,71.7,"DiaSorin Liaison Total",9
+619,548,89.4,"DiaSorin Liaison Total",9
+619,549,66.8,"DiaSorin Liaison Total",9
+619,550,28.5,"DiaSorin Liaison Total",9
+620,546,55,"DiaSorin Liaison Total",4
+620,547,82.3,"DiaSorin Liaison Total",4
+620,548,98,"DiaSorin Liaison Total",4
+620,549,69.3,"DiaSorin Liaison Total",4
+620,550,28.3,"DiaSorin Liaison Total",4
+621,546,56,"DiaSorin Liaison Total",3
+621,547,74.5,"DiaSorin Liaison Total",3
+621,548,88.5,"DiaSorin Liaison Total",3
+621,549,63.5,"DiaSorin Liaison Total",3
+621,550,29.8,"DiaSorin Liaison Total",3
+622,546,59.8,"DiaSorin Liaison Total",2
+622,547,75.5,"DiaSorin Liaison Total",2
+622,548,93.3,"DiaSorin Liaison Total",2
+622,549,67,"DiaSorin Liaison Total",2
+622,550,30.8,"DiaSorin Liaison Total",2
+623,546,56.5,"DiaSorin Liaison Total",14
+623,547,78.2,"DiaSorin Liaison Total",14
+623,548,106,"DiaSorin Liaison Total",14
+623,549,68.1,"DiaSorin Liaison Total",14
+623,550,31.9,"DiaSorin Liaison Total",14
+624,546,47.5,"Abbott Architect - New (5P02)",7
+624,547,70,"Abbott Architect - New (5P02)",7
+624,548,92.5,"Abbott Architect - New (5P02)",7
+624,549,60,"Abbott Architect - New (5P02)",7
+624,550,NA,"Abbott Architect - New (5P02)",7
+625,546,56.4,"Roche Total 25OHD",3
+625,547,77.6,"Roche Total 25OHD",3
+625,548,89.4,"Roche Total 25OHD",3
+625,549,66.9,"Roche Total 25OHD",3
+625,550,29.6,"Roche Total 25OHD",3
+626,546,49.3,"Abbott Architect - New (5P02)",11
+626,547,72.8,"Abbott Architect - New (5P02)",11
+626,548,94.5,"Abbott Architect - New (5P02)",11
+626,549,61.8,"Abbott Architect - New (5P02)",11
+626,550,22,"Abbott Architect - New (5P02)",11
+627,546,48.2,"Affimedix CHEMI-D Sandwich CLIA",4
+627,547,73.7,"Affimedix CHEMI-D Sandwich CLIA",4
+627,548,88,"Affimedix CHEMI-D Sandwich CLIA",4
+627,549,59.1,"Affimedix CHEMI-D Sandwich CLIA",4
+627,550,22.9,"Affimedix CHEMI-D Sandwich CLIA",4
+628,546,53.3,"Abbott Architect - New (5P02)",6
+628,547,75,"Abbott Architect - New (5P02)",6
+628,548,96.2,"Abbott Architect - New (5P02)",6
+628,549,64,"Abbott Architect - New (5P02)",6
+628,550,23.8,"Abbott Architect - New (5P02)",6
+629,546,50.2,"LumiQuick ELISA Vitamin D",7
+629,547,73,"LumiQuick ELISA Vitamin D",7
+629,548,92.3,"LumiQuick ELISA Vitamin D",7
+629,549,59.7,"LumiQuick ELISA Vitamin D",7
+629,550,24.2,"LumiQuick ELISA Vitamin D",7
+630,546,52.5,"IDS-iSYS",11
+630,547,71.5,"IDS-iSYS",11
+630,548,93.25,"IDS-iSYS",11
+630,549,62,"IDS-iSYS",11
+630,550,24.25,"IDS-iSYS",11
+631,546,37.1,"LC-MS-MS",6
+631,547,61.4,"LC-MS-MS",6
+631,548,65.6,"LC-MS-MS",6
+631,549,48.4,"LC-MS-MS",6
+631,550,19,"LC-MS-MS",6
+632,546,55,"LC-MS-MS",7
+632,547,62.5,"LC-MS-MS",7
+632,548,85,"LC-MS-MS",7
+632,549,60,"LC-MS-MS",7
+632,550,35,"LC-MS-MS",7
+633,546,45,"Beckman Unicel Dxi Total 25OHD",3
+633,547,63,"Beckman Unicel Dxi Total 25OHD",3
+633,548,85,"Beckman Unicel Dxi Total 25OHD",3
+633,549,59,"Beckman Unicel Dxi Total 25OHD",3
+633,550,28,"Beckman Unicel Dxi Total 25OHD",3
+634,546,45.5,"DiaSorin Liaison Total",7
+634,547,61.9,"DiaSorin Liaison Total",7
+634,548,77.3,"DiaSorin Liaison Total",7
+634,549,61.2,"DiaSorin Liaison Total",7
+634,550,26.2,"DiaSorin Liaison Total",7
+635,546,51,"Abbott Architect - New (5P02)",1
+635,547,71,"Abbott Architect - New (5P02)",1
+635,548,96,"Abbott Architect - New (5P02)",1
+635,549,64,"Abbott Architect - New (5P02)",1
+635,550,23,"Abbott Architect - New (5P02)",1
+636,546,50.3,"Siemens ADVIA Centaur",14
+636,547,81.3,"Siemens ADVIA Centaur",14
+636,548,88.8,"Siemens ADVIA Centaur",14
+636,549,63.5,"Siemens ADVIA Centaur",14
+636,550,34,"Siemens ADVIA Centaur",14
+637,546,21.3,"Abbott Alinity i",10
+637,547,28.6,"Abbott Alinity i",10
+637,548,38.5,"Abbott Alinity i",10
+637,549,22.7,"Abbott Alinity i",10
+637,550,9.4,"Abbott Alinity i",10
+638,546,56,"LC-MS-MS",10
+638,547,78,"LC-MS-MS",10
+638,548,92,"LC-MS-MS",10
+638,549,60,"LC-MS-MS",10
+638,550,23,"LC-MS-MS",10
+639,546,54,"Roche Vitamin D Total II",11
+639,547,76,"Roche Vitamin D Total II",11
+639,548,91,"Roche Vitamin D Total II",11
+639,549,68,"Roche Vitamin D Total II",11
+639,550,31,"Roche Vitamin D Total II",11
+640,546,46.1,"Roche Vitamin D Total II",8
+640,547,71.2,"Roche Vitamin D Total II",8
+640,548,82.2,"Roche Vitamin D Total II",8
+640,549,58.7,"Roche Vitamin D Total II",8
+640,550,27.3,"Roche Vitamin D Total II",8
+641,546,54.6,"DiaSorin Liaison Total",16
+641,547,72.3,"DiaSorin Liaison Total",16
+641,548,96,"DiaSorin Liaison Total",16
+641,549,68.6,"DiaSorin Liaison Total",16
+641,550,26.1,"DiaSorin Liaison Total",16
+642,546,53.9,"LC-MS-MS",14
+642,547,74.3,"LC-MS-MS",14
+642,548,93.5,"LC-MS-MS",14
+642,549,65.1,"LC-MS-MS",14
+642,550,24.5,"LC-MS-MS",14
